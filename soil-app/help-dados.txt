@@ -1,0 +1,80 @@
+﻿
+
+Soil-app: (Ajuda para pagina "Delineamentos Experimentais > Conjunto de dados")
+
+#-----------------------------------------#
+# Informacoes Gerais = Insercao dos dados #
+#-----------------------------------------#
+
+
+Com o Soil-app e possivel realizar diversas analises estatisticas, no entanto, e necessario que sigamos algumas diretrizes para que as analises sejam realizadas conforme o planejado.
+
+
+#----------#
+# Entradas #
+#----------#
+
+
+- Os arquivos que contem os dados para as analises devem estar no formato .txt ou .csv.
+
+- As colunas dos arquivos devem estar separadas por virgula (,), ponto-e-virgula (;) ou tabulacao (Tab).
+
+- Os dados devem estar categorizados em colunas de modo que cada coluna receba uma informacao diferente. Ex:
+ 
+    - Trat. -> coluna com a informacao do tratamento dado à determinada unidade amostral
+
+    - Rep. -> coluna com a informacao da repeticao dada à determinada unidade amostral
+
+    - y -> coluna com a informacao do caractere avaliado em determinada unidade amostral. 
+
+Obs: Valores númericos decimais devem estar escritos com ponto (.) e nao virgula (,).
+
+- Caso o arquivo inserido possua a primeira linha com os valores de cabecalho, marque a opcao "Cabecalho".
+
+
+#------------------------------#
+# Exemplo de conjunto de dados #
+#------------------------------#
+
+
+Tratamentos = 8
+Blocos = 4
+y = Producao
+
+Variedade	Bloco	Producao
+Kennebec	1	9.2
+Huinkul	1	21.1
+S. Rafaela	1	22.6
+Buena Vista	1	15.4
+B 25-50 E	1	12.7
+B 1-52	1	20.0
+B 116-51	1	23.1
+B 72-53 A	1	18.0
+Kennebec	2	13.4
+Huinkul	2	27.0
+S. Rafaela	2	29.9
+Buena Vista	2	11.9
+B 25-50 E	2	18.0
+B 1-52	2	21.1
+B 116-51	2	24.2
+B 72-53 A	2	24.6
+Kennebec	3	11.0
+Huinkul	3	26.4
+S. Rafaela	3	24.2
+Buena Vista	3	10.1
+B 25-50 E	3	18.2
+B 1-52	3	20.0
+B 116-51	3	26.4
+B 72-53 A	3	24.0
+Kennebec	4	9.2
+Huinkul	4	25.7
+S. Rafaela	4	25.1
+Buena Vista	4	12.3
+B 25-50 E	4	17.1
+B 1-52	4	28.0
+B 116-51	4	16.3
+B 72-53 A	4	24.6
+
+* Exemplo retirado do livro: Pimentel-Gomes F. Curso de Estatistica Experimental. 15ed. Piracicaba: ESALQ, 2009. 451p.
+
+ 

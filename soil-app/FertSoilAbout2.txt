@@ -1,0 +1,12 @@
+##########################
+#### Sobre Soil-App  #####
+##########################
+
+Soil-App e um aplicativo desenvolvido pelos Departamentos de Genetica e Ciencia do Solo, 
+Escola Superior de Agricultura "Luiz de Queiroz", Universidade de Sao Paulo, Brasil. 
+
+Apresenta uma interface click point construida por meio do pacote Shiny do 
+software R para analises de fertilidade de solos.
+
+Este aplicativo e gratuito para uso online, apenas as propriedades intelectuais sao
+reservadas em periodicos por meio de citacoes cientificas dos artigos do Soil-App.

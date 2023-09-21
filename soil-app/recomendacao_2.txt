@@ -1,0 +1,372 @@
+cultura	nutriente	prod	teor	dose
+Soja	N	1.5-1.9	0	0
+Soja	N	2.0-2.4	0	0
+Soja	N	3.0-3.4	0	0
+Soja	N	3.5-4.0	0	0
+Soja	P	1.5-1.9	0-6	50
+Soja	P	1.5-1.9	7-15	40
+Soja	P	1.5-1.9	16-40	30
+Soja	P	1.5-1.9	> 40	20
+Soja	P	2.0-2.4	0-6	60
+Soja	P	2.0-2.4	7-15	50
+Soja	P	2.0-2.4	16-40	40
+Soja	P	2.0-2.4	> 40	20
+Soja	P	2.5-2.9	0-6	80
+Soja	P	2.5-2.9	7-15	60
+Soja	P	2.5-2.9	16-40	40
+Soja	P	2.5-2.9	> 40	20
+Soja	P	3.0-3.4	0-6	90
+Soja	P	3.0-3.4	7-15	70
+Soja	P	3.0-3.4	16-40	50
+Soja	P	3.0-3.4	> 40	30
+Soja	P	3.5-4.0	0-6	*
+Soja	P	3.5-4.0	7-15	80
+Soja	P	3.5-4.0	16-40	50
+Soja	P	3.5-4.0	> 40	40
+Soja	K	1.5-1.9	0.0-0.7	60
+Soja	K	1.5-1.9	0.8-1.5	40
+Soja	K	1.5-1.9	1.6-3.0	20
+Soja	K	1.5-1.9	> 3.0	0
+Soja	K	2.0-2.4	0.0-0.7	70
+Soja	K	2.0-2.4	0.8-1.5	50
+Soja	K	2.0-2.4	1.6-3.0	30
+Soja	K	2.0-2.4	> 3.0	20
+Soja	K	2.5-2.9	0.0-0.7	70
+Soja	K	2.5-2.9	0.8-1.5	50
+Soja	K	2.5-2.9	1.6-3.0	50
+Soja	K	2.5-2.9	> 3.0	20
+Soja	K	3.0-3.4	0.0-0.7	80
+Soja	K	3.0-3.4	0.8-1.5	60
+Soja	K	3.0-3.4	1.6-3.0	50
+Soja	K	3.0-3.4	> 3.0	30
+Soja	K	3.5-4.0	0.0-0.7	80
+Soja	K	3.5-4.0	0.8-1.5	60
+Soja	K	3.5-4.0	1.6-3.0	60
+Soja	K	3.5-4.0	> 3.0	40
+Milho Cobertura	N	2-4	Alta	40
+Milho Cobertura	N	4-6	Alta	60
+Milho Cobertura	N	6-8	Alta	90
+Milho Cobertura	N	8-10	Alta	120
+Milho Cobertura	N	10-12	Alta	140
+Milho Cobertura	N	2-4	Media	20
+Milho Cobertura	N	4-6	Media	40
+Milho Cobertura	N	6-8	Media	60
+Milho Cobertura	N	8-10	Media	90
+Milho Cobertura	N	10-12	Media	110
+Milho Cobertura	N	2-4	Baixa	10
+Milho Cobertura	N	4-6	Baixa	20
+Milho Cobertura	N	6-8	Baixa	40
+Milho Cobertura	N	8-10	Baixa	50
+Milho Cobertura	N	10-12	Baixa	70
+Milho Cobertura	K	2-4	0.0-0.7	0
+Milho Cobertura	K	2-4	0.8-1.5	0
+Milho Cobertura	K	2-4	1.6-3.0	0
+Milho Cobertura	K	4-6	0.0-0.7	20
+Milho Cobertura	K	4-6	0.8-1.5	0
+Milho Cobertura	K	4-6	1.6-3.0	0
+Milho Cobertura	K	6-8	0.0-0.7	60
+Milho Cobertura	K	6-8	0.8-1.5	20
+Milho Cobertura	K	6-8	1.6-3.0	0
+Milho Cobertura	K	8-10	0.0-0.7	90
+Milho Cobertura	K	8-10	0.8-1.5	60
+Milho Cobertura	K	8-10	1.6-3.0	20
+Milho Cobertura	K	10-12	0.0-0.7	110
+Milho Cobertura	K	10-12	0.8-1.5	80
+Milho Cobertura	K	10-12	1.6-3.0	40
+Milho Cobertura	P	2-4	0	0
+Milho Cobertura	P	4-6	0	0
+Milho Cobertura	P	6-8	0	0
+Milho Cobertura	P	8-10	0	0
+Milho Cobertura	P	10-12	0	0
+Milho Plantio	N	2-4	0	10
+Milho Plantio	N	4-6	0	20
+Milho Plantio	N	6-8	0	30
+Milho Plantio	N	8-10	0	30
+Milho Plantio	N	10-12	0	30
+Milho Plantio	P	2-4	0-6	60
+Milho Plantio	P	2-4	7-15	40
+Milho Plantio	P	2-4	16-40	30
+Milho Plantio	P	2-4	> 40	20
+Milho Plantio	P	4-6	0-6	80
+Milho Plantio	P	4-6	7-15	60
+Milho Plantio	P	4-6	16-40	40
+Milho Plantio	P	4-6	> 40	30
+Milho Plantio	P	6-8	0-6	90
+Milho Plantio	P	6-8	7-15	70
+Milho Plantio	P	6-8	16-40	50
+Milho Plantio	P	6-8	> 40	30
+Milho Plantio	P	8-10	0-6	*
+Milho Plantio	P	8-10	7-15	90
+Milho Plantio	P	8-10	16-40	60
+Milho Plantio	P	8-10	> 40	40
+Milho Plantio	P	10-12	0-6	*
+Milho Plantio	P	10-12	7-15	100
+Milho Plantio	P	10-12	16-40	70
+Milho Plantio	P	10-12	> 40	50
+Milho Plantio	K	2-4	0.0-0.7	50
+Milho Plantio	K	2-4	0.8-1.5	40
+Milho Plantio	K	2-4	1.6-3.0	30
+Milho Plantio	K	2-4	> 3.0	0
+Milho Plantio	K	4-6	0.0-0.7	50
+Milho Plantio	K	4-6	0.8-1.5	50
+Milho Plantio	K	4-6	1.6-3.0	40
+Milho Plantio	K	4-6	> 3.0	20
+Milho Plantio	K	6-8	0.0-0.7	50
+Milho Plantio	K	6-8	0.8-1.5	50
+Milho Plantio	K	6-8	1.6-3.0	50
+Milho Plantio	K	6-8	> 3.0	30
+Milho Plantio	K	8-10	0.0-0.7	50
+Milho Plantio	K	8-10	0.8-1.5	50
+Milho Plantio	K	8-10	1.6-3.0	50
+Milho Plantio	K	8-10	> 3.0	40
+Milho Plantio	K	10-12	0.0-0.7	50
+Milho Plantio	K	10-12	0.8-1.5	50
+Milho Plantio	K	10-12	1.6-3.0	50
+Milho Plantio	K	10-12	> 3.0	50
+Saccharum spp - Plantio	N	< 100	0	30
+Saccharum spp - Plantio	N	100-150	0	30
+Saccharum spp - Plantio	N	> 150	0	30
+Saccharum spp - Plantio	P	< 100	0-6	180
+Saccharum spp - Plantio	P	100-150	0-6	180
+Saccharum spp - Plantio	P	> 150	0-6	-
+Saccharum spp - Plantio	P	< 100	7-15	100
+Saccharum spp - Plantio	P	100-150	7-15	120
+Saccharum spp - Plantio	P	> 150	7-15	140
+Saccharum spp - Plantio	P	< 100	16-40	60
+Saccharum spp - Plantio	P	100-150	16-40	80
+Saccharum spp - Plantio	P	> 150	16-40	100
+Saccharum spp - Plantio	P	< 100	>40	40
+Saccharum spp - Plantio	P	100-150	>40	60
+Saccharum spp - Plantio	P	> 150	>40	80
+Saccharum spp - Plantio	K	< 100	0-0.7	100
+Saccharum spp - Plantio	K	100-150	0-0.7	150
+Saccharum spp - Plantio	K	> 150	0-0.7	200
+Saccharum spp - Plantio	K	< 100	0.8-1.5	80
+Saccharum spp - Plantio	K	100-150	0.8-1.5	120
+Saccharum spp - Plantio	K	> 150	0.8-1.5	160
+Saccharum spp - Plantio	K	< 100	1.6-3.0	40
+Saccharum spp - Plantio	K	100-150	1.6-3.0	80
+Saccharum spp - Plantio	K	> 150	1.6-3.0	120
+Saccharum spp - Plantio	K	< 100	3.1-6.0	40
+Saccharum spp - Plantio	K	100-150	3.1-6.0	60
+Saccharum spp - Plantio	K	> 150	3.1-6.0	80
+Saccharum spp - Plantio	K	< 100	>6.0	0
+Saccharum spp - Plantio	K	100-150	>6.0	0
+Saccharum spp - Plantio	K	> 150	>6.0	0
+Saccharum spp - Soqueira	N	<60	0	60
+Saccharum spp - Soqueira	N	60-80	0	80
+Saccharum spp - Soqueira	N	80-100	0	100
+Saccharum spp - Soqueira	N	>100	0	120
+Saccharum spp - Soqueira	P	<60	0-15	30
+Saccharum spp - Soqueira	P	60-80	0-15	30
+Saccharum spp - Soqueira	P	80-100	0-15	30
+Saccharum spp - Soqueira	P	>100	0-15	30
+Saccharum spp - Soqueira	P	<60	> 15	0
+Saccharum spp - Soqueira	P	60-80	> 15	0
+Saccharum spp - Soqueira	P	80-100	> 15	0
+Saccharum spp - Soqueira	P	>100	> 15	0
+Saccharum spp - Soqueira	K	<60	0-1.5	90
+Saccharum spp - Soqueira	K	60-80	0-1.5	110
+Saccharum spp - Soqueira	K	80-100	0-1.5	130
+Saccharum spp - Soqueira	K	>100	0-1.5	150
+Saccharum spp - Soqueira	K	<60	1.5-3.0	60
+Saccharum spp - Soqueira	K	60-80	1.5-3.0	80
+Saccharum spp - Soqueira	K	80-100	1.5-3.0	100
+Saccharum spp - Soqueira	K	>100	1.5-3.0	120
+Saccharum spp - Soqueira	K	<60	> 3.0	30
+Saccharum spp - Soqueira	K	60-80	> 3.0	50
+Saccharum spp - Soqueira	K	80-100	> 3.0	70
+Saccharum spp - Soqueira	K	>100	> 3.0	90
+Eucalyptus	N	< 150	0-15	60
+Eucalyptus	N	< 150	16-40	40
+Eucalyptus	N	< 150	> 40	20
+Eucalyptus	N	150-350	0-15	60
+Eucalyptus	N	150-350	16-40	40
+Eucalyptus	N	150-350	> 40	20
+Eucalyptus	N	> 350	0-15	60
+Eucalyptus	N	> 350	16-40	40
+Eucalyptus	N	> 350	> 40	20
+Eucalyptus	P	< 150	0-2	60
+Eucalyptus	P	< 150	3-5	40
+Eucalyptus	P	< 150	6-3	20
+Eucalyptus	P	< 150	> 8	0
+Eucalyptus	P	150-350	0-2	90
+Eucalyptus	P	150-350	3-5	70
+Eucalyptus	P	150-350	6-3	50
+Eucalyptus	P	150-350	> 8	20
+Eucalyptus	P	> 350	0-2	120
+Eucalyptus	P	> 350	3-5	100
+Eucalyptus	P	> 350	6-3	60
+Eucalyptus	P	> 350	> 8	30
+Eucalyptus	K	< 150	0-0.7	50
+Eucalyptus	K	< 150	0.8-1.5	30
+Eucalyptus	K	< 150	> 1.5	0
+Eucalyptus	K	150-350	0-0.7	60
+Eucalyptus	K	150-350	0.8-1.5	40
+Eucalyptus	K	150-350	> 1.5	0
+Eucalyptus	K	> 350	0-0.7	80
+Eucalyptus	K	> 350	0.8-1.5	60
+Eucalyptus	K	> 350	> 1.5	0
+Pinus	N	< 150	0-15	30
+Pinus	N	< 150	16-40	20
+Pinus	N	< 150	> 40	0
+Pinus	N	150-350	0-15	30
+Pinus	N	150-350	16-40	20
+Pinus	N	150-350	> 40	0
+Pinus	N	> 350	0-15	30
+Pinus	N	> 350	16-40	20
+Pinus	N	> 350	> 40	0
+Pinus	P	< 150	0-2	30
+Pinus	P	< 150	3-5	20
+Pinus	P	< 150	6-3	0
+Pinus	P	< 150	> 8	0
+Pinus	P	150-350	0-2	45
+Pinus	P	150-350	3-5	35
+Pinus	P	150-350	6-3	0
+Pinus	P	150-350	> 8	0
+Pinus	P	> 350	0-2	60
+Pinus	P	> 350	3-5	50
+Pinus	P	> 350	6-3	0
+Pinus	P	> 350	> 8	0
+Pinus	K	< 150	0-0.7	30
+Pinus	K	< 150	0.8-1.5	20
+Pinus	K	< 150	> 1.5	0
+Pinus	K	150-350	0-0.7	40
+Pinus	K	150-350	0.8-1.5	30
+Pinus	K	150-350	> 1.5	0
+Pinus	K	> 350	0-0.7	50
+Pinus	K	> 350	0.8-1.5	40
+Pinus	K	> 350	> 1.5	0
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	N	-	0	0
+Cobertura - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	N	-	0	40
+Cobertura - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	P	-	0	0
+Cobertura - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	K	-	0	0
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	P	-	0-6	100
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	P	-	7-15	70
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	P	-	15-40	40
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	P	-	> 40	0
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	K	-	0-0.7	60
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	K	-	0.8-1.5	40
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	K	-	1.6-3.0	0
+Plantio - Poaceae (Formacao I) - Panicum maximum,  Cynodon, Pennisetum purpureum, Chloris  gayana,  Hyparrhenia rufa, Digitaria decumbens	K	-	> 3.0	0
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	N	-	0	0
+Cobertura - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	N	-	0	40
+Cobertura - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	P	-	0	0
+Cobertura - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	K	-	0	0
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	P	-	0-6	80
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	P	-	7-15	60
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	P	-	15-40	40
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	P	-	> 40	0
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	K	-	0-0.7	50
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	K	-	0.8-1.5	30
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	K	-	1.6-3.0	0
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	K	-	> 3.0	0
+Plantio - Poaceae (Formacao II)- Brachiaria brizantha, Panicum maximum (Green-panic, Mombaga), Andropogon gayanus, Cynodon plectostachyus, Paspalum guenoarum	S	-		20
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	N	-	0	0
+Cobertura - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	N	-	0	40
+Cobertura - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	P	-	0	0
+Cobertura - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	K	-	0	0
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	P	-	0-6	60
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	P	-	7-15	40
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	P	-	15-40	20
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	P	-	> 40	0
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	K	-	0-0.7	40
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	K	-	0.8-1.5	20
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	K	-	1.6-3.0	0
+Plantio - Poaceae (Formacao III) - Brachiaria decumbens,  Brachiaria humidicola, Paspalum notatum, Melinis minutiflora, Setaria anceps 	K	-	> 3.0	0
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	N	-	0	0
+Cobertura - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	N	-	0	0
+Cobertura - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	P	-	0	0
+Cobertura - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	K	-	0	0
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	P	-	0-6	100
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	P	-	7-15	80
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	P	-	15-40	60
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	P	-	> 40	30
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	K	-	0-0.7	60
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	K	-	0.8-1.5	40
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	K	-	1.6-3.0	30
+Plantio - Fabaceae (Formacao I) - Neonotonia wightii, Leucaena leucocephala, Desmodium intortum,  Desmodium ovalifolium, Arachis pintoi, Lotononis bainesii, Trifolium	K	-	> 3.0	0
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	N	-	0	0
+"Cobertura - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	P	-	0	0
+"Cobertura - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	K	-	0	0
+"Cobertura - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	N	-	0	0
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	P	-	0-6	80
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	P	-	7-15	60
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	P	-	15-40	40
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	P	-	> 40	20
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	K	-	0-0.7	60
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	K	-	0.8-1.5	40
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	K	-	1.6-3.0	30
+"Plantio - Fabaceae (Formacao II)- Stylosanthes, Calopogonium mucunoides, Centrosema pubescens, Macroptilium atropurpureum, Macrotiloma axillare, Pueraria phaseoloides, Cajanus cajan, Galactia
+striata"	K	-		20
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	N	-	0	0
+Cobertura - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	N	-	0	50
+Cobertura - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	P	-	0	0
+Cobertura - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	K	-	0	0
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	P	-	0-6	120
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	P	-	7-15	100
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	P	-	15-40	60
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	P	-	> 40	30
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	K	-	0-0.7	80
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	K	-	0.8-1.5	60
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	K	-	1.6-3.0	30
+Plantio - Capineiras  (Formacao) - Pennisetum purpureum Schum, Tripsacum laxum	K	-	> 3.0	0
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	N	-	0	0
+Cobertura - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	N	-	0	50
+Cobertura - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	P	-	0	0
+Cobertura - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	K	-	0	0
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	P	-	0-6	120
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	P	-	7-15	100
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	P	-	15-40	60
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	P	-	> 40	30
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	K	-	0-0.7	60
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	K	-	0.8-1.5	40
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	K	-	1.6-3.0	30
+Plantio - Poaceae (feno - formacao) - Coast-cross, Tifton, Pangola, Rhodes, Greenpanic, Transvala	K	-	> 3.0	0
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	N	-	0	0
+Cobertura - Pasto Consorciado I - Poaceae + Fabaceae I	N	-	0	0
+Cobertura - Pasto Consorciado I - Poaceae + Fabaceae I	P	-	0	0
+Cobertura - Pasto Consorciado I - Poaceae + Fabaceae I	K	-	0	0
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	P	-	0-6	100
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	P	-	7-15	80
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	P	-	15-40	60
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	P	-	> 40	30
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	K	-	0-0.7	60
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	K	-	0.8-1.5	40
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	K	-	1.6-3.0	30
+Plantio - Pasto Consorciado I - Poaceae + Fabaceae I	K	-	> 3.0	0
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	N	-	0	0
+Cobertura - Pasto consorciado II - Poaceae + Fabaceae II	N	-	0	0
+Cobertura - Pasto consorciado II - Poaceae + Fabaceae II	P	-	0	0
+Cobertura - Pasto consorciado II - Poaceae + Fabaceae II	K	-	0	0
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	P	-	0-6	80
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	P	-	7-15	60
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	P	-	15-40	40
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	P	-	> 40	20
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	K	-	0-0.7	60
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	K	-	0.8-1.5	40
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	K	-	1.6-3.0	30
+Plantio - Pasto consorciado II - Poaceae + Fabaceae II	K	-	> 3.0	0
+Plantio - Fabaceae (Formacao)- Medicago sativa	N	-	0	0
+Cobertura - Fabaceae (Formacao)- Medicago sativa	N	-	0	0
+Cobertura - Fabaceae (Formacao)- Medicago sativa	P	-	0	0
+Cobertura - Fabaceae (Formacao)- Medicago sativa	K	-	0	0
+Plantio - Fabaceae (Formacao)- Medicago sativa	P	-	0-6	150
+Plantio - Fabaceae (Formacao)- Medicago sativa	P	-	7-15	130
+Plantio - Fabaceae (Formacao)- Medicago sativa	P	-	15-40	100
+Plantio - Fabaceae (Formacao)- Medicago sativa	P	-	> 40	50
+Plantio - Fabaceae (Formacao)- Medicago sativa	K	-	0-0.7	160
+Plantio - Fabaceae (Formacao)- Medicago sativa	K	-	0.8-1.5	130
+Plantio - Fabaceae (Formacao)- Medicago sativa	K	-	1.6-3.0	100
+Plantio - Fabaceae (Formacao)- Medicago sativa	K	-	> 3.0	60

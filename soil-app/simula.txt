@@ -1,0 +1,33 @@
+﻿nutriente	cultura	min	max	classe	num.class
+P	Florestais	0	2	Muito baixo	1
+P	Florestais	3	5	Baixo	2
+P	Florestais	6	8	Medio	3
+P	Florestais	9	16	Alto	4
+P	Florestais	17	1000	Muito alto	5
+P	Perenes	0	5	Muito baixo	1
+P	Perenes	6	12	Baixo	2
+P	Perenes	13	30	Medio	3
+P	Perenes	31	60	Alto	4
+P	Perenes	61	1000	Muito alto	5
+P	Anuais	0	6	Muito baixo	1
+P	Anuais	7	15	Baixo	2
+P	Anuais	16	40	Medio	3
+P	Anuais	41	80	Alto	4
+P	Anuais	81	1000	Muito alto	5
+P	Hortalicas	0	10	Muito baixo	1
+P	Hortalicas	11	25	Baixo	2
+P	Hortalicas	26	60	Medio	3
+P	Hortalicas	61	120	Alto	4
+P	Hortalicas	121	1000	Muito alto	5
+K	-	0.0	0.7	Muito baixo	1
+K	-	0.8	1.5	Baixo	2
+K	-	1.6	3.0	Medio	3
+K	-	3.1	6.0	Alto	4
+K	-	6.1	100	Muito alto	5
+Ca	-	0	3	Baixo	2
+Ca	-	4	7	Medio	3
+Ca	-	8	100	Alto	4
+Mg	-	0	4	Baixo	2
+Mg	-	5	8	Medio	3
+Mg	-	9	100	Alto	4
+

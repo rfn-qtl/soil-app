@@ -1,0 +1,4 @@
+Natureza fisica;1
+Corretivos de acidez;1
+Corretivos de alcalinidade;1
+Corretivos de sodicidade;1

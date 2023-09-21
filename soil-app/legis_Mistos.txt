@@ -1,0 +1,3 @@
+Ternario (NPK)	18
+Binario (NP, NK e PK)	15
+Ca, Mg, S	Garantias de calcio, magnesio e enxofre nao podem ser inferiores a 1% para cada macronutriente secundario declarado, podendo ser expressos com ate uma casa decimal.

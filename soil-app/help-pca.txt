@@ -1,0 +1,29 @@
+
+
+Soil-app: (Ajuda para pagina "Analise Multivariada > Componentes Principais")
+
+#--------------------------------------------#
+# Informacoes Gerais = Componente Principais #
+#--------------------------------------------#
+
+
+Soil-app utiiza a funcao prcomp do software R para realizar os calculos de componentes principais.
+
+
+#--------#
+# Saidas #
+#--------#
+
+
+Estatistica Resumo: Calculo da importancia dos componentes principais (desvio padrao, proporcao da variancia capturada e proporcao acumulada da variancia).
+
+Scores de Tratamento: Valores dos scores dos Componentes Principais para os tratamentos avaliados.
+
+Scores de Caracteristicas: Valores dos scores dos Componentes Principais para as caracteristicas avaliadas.
+
+# Grafico PCA - Biplot (pacote factoextra do software R)
+
+OBS: Para fazer o download dos dados obtidos nas saidas e necessario inserir um nome desejado para o arquivo e clicar em Download.
+
+
+

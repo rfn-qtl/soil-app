@@ -1,0 +1,27 @@
+nutriente	unid	cultura	teor	classe
+N	-	-	-	-
+K	mmolc/dm3	-	0,0-0,7	Muito baixo
+K	mmolc/dm3	-	0,8-1,5	Baixo
+K	mmolc/dm3	-	1,6-3,0	Medio
+K	mmolc/dm3	-	3,1-6,0	Alto
+K	mmolc/dm3	-	6,0-1000	Muito alto
+P	resina	Florestais	0-2	Muito baixo
+P	resina	Florestais	3-5	Baixo
+P	resina	Florestais	6-8	Medio
+P	resina	Florestais	9-16	Alto
+P	resina	Florestais	17-1000	Muito alto
+P	resina	Perenes	0-5	Muito baixo
+P	resina	Perenes	6-12	Baixo
+P	resina	Perenes	13-30	Medio
+P	resina	Perenes	31-60	Alto
+P	resina	Perenes	61-1000	Muito alto
+P	resina	Anuais	0-6	Muito baixo
+P	resina	Anuais	7-15	Baixo
+P	resina	Anuais	16-40	Medio
+P	resina	Anuais	41-80	Alto
+P	resina	Anuais	81-1000	Muito alto
+P	resina	Hortalicas	0-10	Muito baixo
+P	resina	Hortalicas	11-25	Baixo
+P	resina	Hortalicas	26-60	Medio
+P	resina	Hortalicas	61-120	Alto
+P	resina	Hortalicas	121-1000	Muito alto

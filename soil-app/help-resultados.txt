@@ -1,0 +1,35 @@
+
+
+Soil-app: (Ajuda para pagina "Delineamentos Experimentais > Resultados")
+
+#---------------------------------#
+# Informacoes Gerais = Resultados #
+#---------------------------------#
+
+
+Nessa aba e possivel visualizar uma estatistica resumo dos niveis referentes a cada fator utilizado.
+
+O pacote utilizado para realizar as analises estatistica e o agricolae (https://cran.r-project.org/web/packages/agricolae/index.html) do software R.
+
+OBS: Para o uso dessa aba e necessario inserir os dados na aba Conjunto de Dados e rodar (clique em Rodar) na aba Estatistica.
+
+
+#--------#
+# Saidas #
+#--------#
+
+
+OBS: Clique em rodar para aparecer os resultados.
+
+1) Sao calculados varios metodos para o ajuste dos p-valor para a estimacao dos parametros de interesse.
+
+	- Metodos: sem ajuste (none), Bonferroni, Holm, Hommel, Hochberg, BH, BY, fdr (consultar pacote agricolae - Software R).
+
+2) Teste de comparacao de medias pelo metodo de Tukey.
+
+3) Boxplots
+
+OBS: Para fazer o download dos dados obtidos nas saidas e necessario inserir um nome desejado para o arquivo e clicar em Download.
+
+
+

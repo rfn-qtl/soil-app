@@ -1,0 +1,5 @@
+g.kg	g.dm	classe
+0-150	0-15	Arenosa
+160-300	16-30	Media
+310-600	31-60	Argilosa
+>600	>60	Muito argilosa

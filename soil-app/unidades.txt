@@ -1,0 +1,21 @@
+Unidade Antiga 	Unidade Nova 	Fator de conversao (F)
+% 	g/kg, g/dm3, g/L 	10
+g/kg, g/dm3, g/L 	% 	0.1
+ppm 	mg/kg, mg/dm3, mg/L 	1
+mg/kg, mg/dm3, mg/L 	ppm 	1
+meq/100cm3 	mmolc/dm3 	10
+mmolc/dm3 	meq/100cm3 	0.1
+meq/100g 	mmolc/kg 	10
+mmolc/kg 	meq/100g 	0.1
+meq/L 	mmolc/L 	1
+mmolc/L 	meq/L 	1
+P205 	P 	0.437
+P 	P205 	2.28833
+K2O 	K 	0.83
+K 	K2O 	1.204819
+CaO 	Ca 	0.715
+Ca 	CaO 	1.398601
+MgO 	Mg 	0.602
+Mg 	MgO 	1.66113
+mmho/cm 	dS/m 	1
+dS/m 	mmho/cm 	1

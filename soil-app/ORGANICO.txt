@@ -1,0 +1,4 @@
+Fonte	N	P2O5	K2O	Ca	Mg	S
+Torta de filtro	3.7	4.3	0.9	11.5	1.2	1.5
+Cama de Frango	21.04	17.84	20.56	49.36	4.24	2.64
+Personalizado	0	0	0	0	0	0

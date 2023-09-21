@@ -1,0 +1,6 @@
+Ate 0,1	25%	30%
+Acima de 0,1 ate 1	20%	25%
+Acima de 1 ate 5	T(p.p.) = (0,1375 x Tg) + 0,0625	T(p.p.) = (0,1875 x Tg) + 0,0625
+Acima de 5 ate 10	T(p.p.) = (0,0500 x Tg) + 0,5000	T(p.p.) = (0,0500 x Tg) + 0,7500
+Acima de 10 ate 40	T(p.p.) = (0,0333 x Tg) + 0,6667	T(p.p.) = (0,0417 x Tg) + 0,8333
+Acima de 40	2 p.p.	2,5 p.p.

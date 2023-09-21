@@ -1,0 +1,4 @@
+Peneira	Abertura (mm)	Passante minimo (%)	Tolerancia  para deficiencia	Tolerancia  para excesso
+ABNT 10	2,00	100	Ate 5%	Nao especificado
+ABNT 20	0,84	70	Ate 5%	Nao especificado
+ABNT 50	0,30	50	Ate 5%	Nao especificado

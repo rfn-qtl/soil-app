@@ -1,0 +1,4 @@
+Boro (B)	1,5 vezes o teor garantido	0,25 vez o teor garantido
+Cobre (Cu)	3 vezes o teor garantido	0,25 vez o teor garantido
+Manganes (Mn)	3 vezes o teor garantido	0,25 vez o teor garantido
+Zinco (Zn)	3 vezes o teor garantido	0,25 vez o teor garantido

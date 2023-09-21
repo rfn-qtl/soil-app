@@ -1,0 +1,125 @@
+Cultura 	V	mt	X 
+Milho para graos e Silagem	70	15	20
+Milho 'safrinha'	50	15	20
+Sorgo-granifero	70	15	20
+Girassol	70	10	25
+Leguminosas adubos verdes - Crotalaria, Ervilhaca, Feijao-de-porco, Feijao-grandu, mucuna, tremoco	60	15	25
+Soja	60	20	20
+Mandioca	50	30	10
+Cana-de-acucar	60	30	35
+Eucalyptus 	30	45	10
+Pinus	30	45	10
+Reflorestamento - Especies da Mata Atlantica	50		
+"Gramineas Formacao I - Panicum, maximum (Aruana, Centenario, Coloniao,
+IZ-1, Tanzania, Tobiata, Vencedor); Cynodon
+(Coast-cross, Tiftons); Pennisetum purpureum
+(Cameron, Elefante, Guacu, Napier, Uruckuami);
+Chloris (Rhodes); Hyparrenia rufa (Jaragua);
+Digitaria decumbens (Pangola, Transvala);
+"	70	20	20
+"Gramineas Formacao II- Panicum, maximum (Aruana, Centenario, Coloniao,
+IZ-1, Tanzania, Tobiata, Vencedor); Cynodon
+(Coast-cross, Tiftons); Pennisetum purpureum
+(Cameron, Elefante, Guacu, Napier, Uruckuami);
+Chloris (Rhodes); Hyparrenia rufa (Jaragua);
+Gramineas Formacao - Brachiaria brizantha (Braquiargo, Marandu); P
+maximum (Green-panic, Mombaga); Andropogon
+gayanus (Andropogon); Cynodon plectostachyus
+(Estrelas); Paspalum guenoarum (Ramirez)"	60	25	15
+"Gramineas Formacao III- Brachiaria decumbens (Braquiaria, lpean,
+Australiana); B. humidicola (Quicuio da Amazonia);
+Paspalum notatum (Batatais ou Gramao,
+Pensacola); Melinis minutiflora (Gordura); Setaria
+anceps (Setaria)"	40	30	10
+"Leguminosas exclusivas I - Neonotonia wightii (Soja-perene); Leucaena
+leucocephala (Leucena); Desmodium intortum e D.
+ovalifolium (Desm6dio); Arachis pintoi (Arechis);
+Lotononis bainesii (Lotononis); Trifolium(Trevo
+Branco, Vermelho e Subterrineo)"	70	15	25
+"Leguminosas exclusivas II- Stylosanthes (Estilosantes); Calopogonium
+mucunoides (Calopogonio); Centrosema
+pubescens (Centrosema); Macroptilium
+atropurpureum (Siratro); Macrotiloma axillare
+(Macrotiloma ou Guata) Pueraria phaseoloides
+(Kudzu tropical); Cajanus cajan (Guandu); Galactia
+striata (Galaxia)"	50	25	10
+Capineiras  Formacao - Elefante, Napier; Tripsacum laxum (Guatemala)	70	20	20
+"Gramineas para feno - formacao (Coast-cross, Tifton, Pangola, Rhodes, Greenpanic,
+Transvala)"	70		
+Pasto Consorciado I - Graminea + leguminosas do Grupo I.	70		
+Pasto consorciado II - Graminea + leguminosas do Grupo II	50		
+Leguminosa intensiva -Medicago sativa	80	15	25
+"Gramineas Manutencao I - Panicum, maximum (Aruana, Centenario, Coloniao,
+IZ-1, Tanzania, Tobiata, Vencedor); Cynodon
+(Coast-cross, Tiftons); Pennisetum purpureum
+(Cameron, Elefante, Guacu, Napier, Uruckuami);
+Chloris (Rhodes); Hyparrenia rufa (Jaragua);
+Digitaria decumbens (Pangola, Transvala);
+"	60		
+"Gramineas Manutencao II- Panicum, maximum (Aruana, Centenario, Coloniao,
+IZ-1, Tanzania, Tobiata, Vencedor); Cynodon
+(Coast-cross, Tiftons); Pennisetum purpureum
+(Cameron, Elefante, Guacu, Napier, Uruckuami);
+Chloris (Rhodes); Hyparrenia rufa (Jaragua);
+Gramineas Formacao - Brachiaria brizantha (Braquiargo, Marandu); P
+maximum (Green-panic, Mombaga); Andropogon
+gayanus (Andropogon); Cynodon plectostachyus
+(Estrelas); Paspalum guenoarum (Ramirez)"	50		
+"Gramineas Manutencao III- Brachiaria decumbens (Braquiaria, lpean,
+Australiana); B. humidicola (Quicuio da Amazonia);
+Paspalum notatum (Batatais ou Gramao,
+Pensacola); Melinis minutiflora (Gordura); Setaria
+anceps (Setaria)"	40		
+"Leguminosas exclusivas I (Manutencao) - Neonotonia wightii (Soja-perene); Leucaena
+leucocephala (Leucena); Desmodium intortum e D.
+ovalifolium (Desm6dio); Arachis pintoi (Arechis);
+Lotononis bainesii (Lotononis); Trifolium(Trevo
+Branco, Vermelho e Subterrineo)"	60		
+"Leguminosas exclusivas II (Manutencao)- Stylosanthes (Estilosantes); Calopogonium
+mucunoides (Calopogonio); Centrosema
+pubescens (Centrosema); Macroptilium
+atropurpureum (Siratro); Macrotiloma axillare
+(Macrotiloma ou Guata) Pueraria phaseoloides
+(Kudzu tropical); Cajanus cajan (Guandu); Galactia
+striata (Galaxia)"	40		
+Capineiras Manutencao - Elefante, Napier; Tripsacum laxum (Guatemala)	60		
+"Gramineas para feno Manutencao - (Coast-cross, Tifton, Pangola, Rhodes, Greenpanic,
+Transvala)"	60		
+Pasto Consorciado I (Manutencao)- Graminea + leguminosas do Grupo I.	60		
+Pasto consorciado II (Manutencao)- Graminea + leguminosas do Grupo II	40		
+Leguminosa intensiva (Manutencao)-Medicago sativa	80	15	25
+Arroz sequeiro	50	25	20
+Arroz irrigado	50	25	20
+Trigo	50	15	20
+Feijao	50	20	20
+Amendoim	70	5	30
+Mamona	60	10	25
+Algodao	60	10	25
+Cafe	60	25	35
+Batata	60	15	20
+Batata-doce	60	15	20
+Cacau	50	15	20
+Seringueira	50	25	10
+Pimenta-do-reino	70	5	30
+Melao	80	5	35
+Chuchu	80	5	35
+Alface	70	5	30
+Tomate	70	5	30
+Cenoura	65	5	30
+Repolho	65	5	30
+Couve-flor	65	5	30
+Brocolis	65	5	30
+Couve	65	5	30
+Morango	70	5	30
+Quiabo	70	5	30
+Abacaxi	50	15	20
+Banana	70	10	30
+Citros	70	5	30
+Mamao	80	5	35
+Manga	60	10	25
+Maracuja	70	5	30
+Goiaba	70	5	30
+Pessego	70	5	30
+Maca	70	5	30
+Caqui	70	5	30
+Videira	80	5	35

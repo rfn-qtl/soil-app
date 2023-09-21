@@ -1,0 +1,723 @@
+"Acetato de Amonio
+(CH3COONH4)"	16% de N	Nitrogenio soluvel em agua	"Obtido pela reacao da amonia com
+acido Acetico"	
+"Acetato de Calcio
+(Ca(C2H3O2)2.H2O)"	18% de Ca	Calcio soluvel em agua	"Reacao de acido
+Acetico com
+Calcita."	
+"Acetato de Cobalto
+(Co(C2H3O2)2.4H2O)"	18% de Co	Cobalto soluvel em agua	Reacao de acido Acetico e oxido de Cobalto	
+"Acetato de Cobre
+(Cu(C2H3O2)2.2H2O)"	23% de Cu	Cobre soluvel em agua	"Reacao de acido
+Acetico e oxido de
+Cobre"	
+"Acetato de Ferro
+(FeOH(C2H3O2)2)"	23% de Fe	Ferro teor total	"Reacao de acido
+Acetico com
+Hematita."	
+"Acetato de Magnesio
+(Mg(C2H3O2)2)"	13% de Mg	Magnesio soluvel em agua	Reacao de acido Acetico com Magnesita.	
+"Acetato de Manganes
+(Mn(C2H3O2)2)"	25% de Mn	Manganes soluvel em agua	Reacao de acido Acetico com oxido Manganoso.	
+"Acetato de Potassio
+(KC2H3O2)"	38% de K2O	Potassio soluvel em agua	"Reacao de acido
+Acetico com
+Potassa."	
+"Acetato de Zinco
+(Zn(C2H3O2)2)"	28% de Zn	Zinco soluvel em agua	"Reacao de acido
+Acetico com oxido de Zinco."	
+"acido Borico
+(H3BO3)"	17% de B	Boro soluvel em agua	"Obtencao a partir
+de Borato de Sodio ou Calcio, tratado com acido Sulfurico ou Cloridrico."	
+"acido Fosforico
+(H3PO4)"	40% de P2O5	P2O5 soluvel em agua	"Reacao da rocha fosfatica com acido
+Sulfurico."	
+"Alga Marinha
+Lithothamnium."	"32% de Ca
+2% de Mg"	Calcio e Magnesio teores totais.	Extracao e moagem a po de depositos naturais de algas marinhas lithothamnium.	"Especificacao de natureza fisica: Po.
+Este produto pode ser granulado desde que seja produzido a partir da especificacao de natureza fisica po e seja utilizado"
+Amonia Anidra	82% de N	"Nitrogenio (N) teor total
+N na forma amoniacal (NH3)"	"Sintese catalitica entre o Nitrogenio
+do ar atmosferico e o Hidrogenio proveniente do
+craqueamento de hidrocarboneto."	
+Aquamonia	10% de N	"Nitrogenio (N) teor total
+N na forma amoniacal (solucao
+aquosa)"	"Reacao da Amonia
+Anidra com agua."	
+"Bicarbonato de Amonio
+(NH4HCO3)"	17,5% de N	"Nitrogenio (N) teor
+total
+N na forma amoniacal."	Reacao da amonia e gas carbonico em meio aquoso.	
+"Borato de
+Monoetanolamina"	8% de B	Boro soluvel em agua	"ester de acido
+Borico com monoetanolamina"	
+"Borax
+(Na2B4O7. nH2O)"	10% de B	Boro teor total	"a) a partir da reacao
+do Anidrido Borico com Hidroxido de Sodio.
+b) a partir da reacao a quente de acido borico com metaborato de sodio (2 H3BO3 + 2
+NaBO2 --> Na2B4O7
++ 3 H2O)"	
+Borra de Enxofre	50% de S	Enxofre teor total.	A partir do beneficiamento (secagem, moagem e peneiramento) do material resultante da filtracao de Enxofre utilizado na producao de acido Sulfurico.	"Esse produto pode
+ser dispensado de registro quando, na condicao de material secundario e mediante autorizacao do MAPA, for
+comercializado tal qual para estabelecimento produtor de fertilizante como materia-prima
+para a fabricacao de Borra de Enxofre ou outro fertilizante."
+Borra de Fosfato de Ferro e Zinco	"20% de P2O5
+10% de Fe
+3% de Zn"	"P2O5 teor total e
+minimo de 18% P2O5 soluvel em CNA + agua.
+Zinco e Ferro teores
+totais"	A partir do beneficiamento (secagem e moagem) do material sedimentado neutralizado, oriundo do tratamento de chapa metalica com acido fosforico e zinco.	"Esse produto pode
+ser dispensado de registro quando, na condicao de material
+secundario e mediante autorizacao do MAPA, for comercializado tal qual para estabelecimento produtor de fertilizante como materia-prima
+para a fabricacao de Borra de Fosfato de Ferro e Zinco ou outro fertilizante."
+"Carbonato de Calcio
+
+(CaCO3)"	32% de Ca	Calcio teor total na forma de Carbonato.	"1) moagem e tamisacao da rocha calcaria calcitica;
+2) precipitacao do leite de cal;
+3) moagem de conchas marinhas."	"Especificacao de
+natureza fisica:
+po.
+Este produto pode ser granulado desde que seja produzido a partir da especificacao de natureza fisica
+po e seja utilizado
+agente desagregante. Pode conter ate
+3% de Mg."
+"Carbonato de Calcio e
+Magnesio
+
+(CaMg)(CO3)2"	"18% de Ca
+3% de Mg"	Calcio e Magnesio teores totais na forma de Carbonato.	Moagem e tamisacao da rocha calcaria dolomitica	"Especificacao de natureza fisica: po.
+Este produto pode
+ser granulado desde que seja produzido a partir da especificacao de natureza fisica po e seja utilizado agente desagregante."
+"Carbonato de Cobalto
+(CoCO3)"	42% de Co	Cobalto teor total.	"A partir da reacao
+do Co(NO3)2.6H2O com Carbonato de Sodio."	
+"Carbonato de Cobre
+(CuCO3.Cu(OH)2)"	48% de Cu	Cobre teor total.	"A partir da reacao
+de CuSO4.5H2O com Carbonato de Sodio."	
+"Carbonato de Ferro
+(FeCO3)"	41% de Fe	Ferro teor total.	"A partir da reacao de FeCl2 com
+Carbonato de
+Sodio."	
+"Carbonato de Magnesio
+(MgCO3)"	25% de Mg	Magnesio teor total.	"Moagem e tamisacao da
+Magnesita."	"Especificacao de natureza fisica:
+po. Este produto pode
+ser granulado desde que seja produzido a partir da especificacao de natureza fisica po e seja utilizado agente desagregante."
+"Carbonato de Manganes
+(MnCO3)"	40% de Mn	Manganes teor total.	"A partir da reacao
+de MnSO4 com
+Carbonato de Sodio"	
+"Carbonato de Niquel
+(NiCO3)"	39% de Ni	Niquel teor total.	"Reacao do Sulfato
+de Niquel com Carbonato de Sodio com posterior purificacao."	
+"Carbonato de Potassio
+(K2CO3)"	66% de K2O	K2O soluvel em agua.	"Precipitacao do
+Cloreto de Potassio (KCl) com Bicarbonato de Sodio (Na2CO3)"	
+"Carbonato de Zinco
+(ZnCO3)"	49% de Zn	Zinco teor total.	"A partir da reacao
+de ZnSO4 com
+Carbonato de Sodio"	
+Cianamida de calcio	"18% de N
+26% de Ca"	"Nitrogenio teor total
+com, no minimo, de
+75% na forma cianamidica, podendo conter ate
+3% de Nitrogenio na forma de Nitrato de Calcio."	"A partir da reacao
+de carbeto de calcio com nitrogenio com adicao de nitrato."	
+"Citrato de Potassio
+(K2C6H5O7.H2O)"	42% de K2O	K2O soluvel em agua.	"Por meio da reacao
+do acido Citrico com o Hidroxido de Potassio ou Carbonato de Potassio."	
+"Cloreto Cuprico
+(CuCl2.6H2O )"	"20% de Cu
+23% de Cl"	Cobre soluvel em agua.	"Reacao do
+Carbonato de Cobre com acido Cloridrico."	"Minimo de 23%
+de Cloro (Cl)."
+"Cloreto de Amonio
+(NH4Cl)"	"25% de N
+62% de Cl"	O Nitrogenio devera estar na forma Amoniacal.	"1) Neutralizacao do
+acido Cloridrico por Amonia.
+2) Reacao entre Carbonato de Amonio e Cloreto
+de Sodio."	"Minimo de 62%
+de Cloro (Cl)."
+"Cloreto de Calcio
+(CaCl2.2H2O)"	"24% de Ca
+43% de Cl"	Calcio soluvel em agua.	"Reacao do oxido de Calcio com
+acido Cloridrico."	"Minimo de 43%
+de Cloro (Cl)."
+"Cloreto de Cobalto
+(CoCl2.2H2O)"	"34% de Co
+40% de Cl"	Cobalto soluvel em agua.	"Reacao do
+Carbonato de Cobalto com acido Cloridrico."	"Minimo de 40%
+de Cloro (Cl)."
+"Cloreto de Magnesio
+(MgCl2.6H2O)"	10% de Mg	Magnesio soluvel em agua.	"Reacao de oxido de
+Magnesio (MgO) com acido Cloridrico."	"Minimo de 26%
+de Cloro (Cl)."
+"Cloreto de Manganes
+(MnCl2.4H2O)"	25% de Mn	Manganes soluvel em agua.	"A partir da reacao
+de oxido de Manganes (MnO2) com acido Cloridrico"	"Minimo de 32%
+de Cloro (Cl)."
+"Cloreto de Potassio
+(KCl)"	50% de K2O	K2O soluvel em agua.	"A partir de sais brutos de Potassio
+por dissolucoes
+seletivas, flotacao ou outros metodos de separacao."	"Minimo de 39%
+de Cloro (Cl)."
+"Cloreto de Zinco
+(ZnCl2)"	24% de Zn	Zinco soluvel em agua.	"A partir da reacao
+de oxido de Zinco (ZnO) com acido Cloridrico."	"Minimo de 26%
+de Cloro (Cl)."
+"Cloreto Ferrico
+(FeCl3.6H2O)"	15% de Fe	Ferro soluvel em agua.	A partir da reacao de Ferro (Fe) com acido Cloridrico.	"Minimo de 30%
+de Cloro (Cl)."
+"Cloreto Ferroso
+(FeCl2.4H2O)"	23% de Fe	Ferro soluvel em agua.	"A partir da reacao de Ferro (Fe) com acido Cloridrico
+em presenca de
+redutor."	"Minimo de 30%
+de Cloro (Cl)."
+"Colemanita
+(CaO. 3B2.O3 5H2O
+ou CaB4O7.15H2O)"	8% de B	Boro total na forma de Borato de Calcio Especificacao de natureza fisica: po.	Beneficiamento fisico do mineral natural.	"Minimo de 6 % de
+Ca.
+Como materia- prima para a fabricacao de fertilizante, fica dispensada a exigencia de especificacao de natureza fisica."
+"Enxofre
+(Sº)"	95% de S	Enxofre teor total. Especificacao de natureza fisica: Po	Extracao de depositos naturais de Enxofre ou a partir da pirita, subproduto de gas natural, gases de refinaria e fundicoes do carvao. Pode ser obtido tambem do Sulfato de Calcio ou Anidrita.	"1) Para uso direto
+na agricultura, exigida especificacao de natureza fisica po.
+2) Como materia- prima para a fabricacao de acido sulfurico ou outros fins, fica dispensada a exigencia de especificacao de natureza fisica."
+Enxofre Granulado	90% de S	Enxofre teor total. Especificacao de natureza fisica: Granulado.	A partir da fusao de enxofre com adicao de argila bentonita, seguida de mistura, homogeneizacao e granulacao do produto final.	Deve ser adicionado ao enxofre fundido, no minimo, 9,5% de bentonita em p/p do produto final.
+"Farinha de Osso
+Calcinado"	18% de P2O5	"Fosforo determinado
+como P2O5 total e minimo de 16% soluvel em acido citrico a 2% na relacao 1:100."	Calcinacao e moagem a po de ossos.	Deve conter, no minimo, 15% de Calcio.
+"Farinha de Osso
+Autoclavado"	"9% de P2O5
+1% de N"	"Fosforo determinado como P2O5 total e minimo de 8% soluvel em acido citrico a 2% na relacao 1:100
+Nitrogenio Total"	"Autoclavagem de ossos processados
+por acao de vapor saturado direto, a mais de 140ºC, sob pressao superior a 7
+Bar, por, no
+minimo, 3 (tres) horas e moagem a po."	Deve conter 3% ou mais de Carbono Organico. Minimo de 14% de Calcio.
+Fonolito	"8% de K2O
+25% de Si"	"K2O teor
+total e minimo de 1%
+soluvel em
+acido Citrico a 2% na relacao 1:100. Silicio teor total. Granulometria: Particulas passantes, no minimo, 80% na peneira de 0,075 mm (ABNT 200)."	Moagem e tamisacao do mineral natural Fonolito.	
+"Formiato de Calcio
+Ca(HCO2)2"	24% de Ca	Calcio soluvel em agua.	"Reacao de acido
+Formico com
+Calcita."	
+"Formiato Cobaltoso
+Co(HCO2)2"	23% de Co	Cobalto soluvel em agua.	"Reacao de acido
+Formico com oxido
+Cobaltoso."	
+"Formiato de Cobre
+Cu.HCO2"	35% de Cu	Cobre soluvel em agua.	"Reacao de acido
+Formico com oxido
+Cuproso."	
+"Formiato Ferroso
+Fe(HCO2)2.2H2O"	18% de Fe	Ferro soluvel em agua.	"Reacao de acido
+Formico com hematita."	
+"Formiato de Magnesio
+Mg(HCO2)2"	16% de Mg	Magnesio soluvel em agua.	"Reacao de acido
+Formico com Magnesita Calcinada."	
+"Formiato de Manganes
+Mn(HCO2)2"	22% de Mn	Manganes soluvel em agua.	"Reacao de acido
+Formico com oxido de Manganes."	
+"Formiato de Potassio
+(KHCO2)"	40% de K2O	Potassio soluvel em agua.	"Reacao de acido
+Formico com
+Potassa."	
+"Formiato de Zinco
+Zn(HCO2)2"	25% de Zn	Zinco soluvel em agua.	"Reacao de acido
+Formico com oxido de Zinco."	
+"Fosfatado Acidulado
+Sulfurico"	"15% de P2O5
+15% de Ca
+10% de S"	"Fosforo determinado
+como P2O5 soluvel em Citrato Neutro de Amonio mais agua e minimo de 60% deste teor soluvel em agua."	Reacao de rocha fosfatica moida com acido Sulfurico	
+"Fosfatado Acidulado
+Fosforico"	"36% de P2O5
+10% de Ca"	"Fosforo determinado como P2O5 soluvel
+em Citrato Neutro de
+Amonio mais agua e minimo de 60% deste teor soluvel em agua."	Reacao de rocha fosfatica moida com acido fosforico	
+Fosfato Cuprico Amoniacal. (CuNH4PO4.H2O)	"32% de Cu
+34% de P2O5
+5% de N"	"Nitrogenio e Cobre teores totais.
+P2O5 soluvel em Citrato Neutro de Amonio mais agua."	Reacao do Fosfato de Cobre com Amonia.	
+"Fosfato de Cobalto
+Co3(PO4)2"	"41% de Co
+32% de P2O5"	"Cobalto teor total e
+P2O5
+soluvel em Citrato
+Neutro de Amonio mais agua"	A partir da reacao do CoCl2 com Fosfato de Amonio (NH4)2.HPO4	
+"Fosfato Diamonico
+(DAP)"	"17% de N
+45% de P2O5"	"Nitrogenio teor total e P2O5 teor soluvel
+em CNA mais agua e
+minimo de 38%
+soluvel em agua."	Reacao do acido Fosforico com Amonia.	Nitrogenio na forma amoniacal.
+"Fosfato Diamonico cristal
+(DAP cristal)"	"19% de N
+50% P2O5"	Nitrogenio e Fosforo teores soluveis em agua.	"1) Reacao do acido Fosforico de alta pureza com Amonia
+2) Purificacao do
+DAP."	Nitrogenio na forma amoniacal.
+Fosfato Ferroso Amoniacal Fe(NH4)PO4.H2O	"29% de Fe
+36% de P2O5
+5% de N"	"Ferro soluvel em agua.
+P2O5 soluvel em citrato neutro de amonio mais agua."	"Amoniacao do
+Fosfato Ferroso."	
+"Fosfato Monoamonico
+(MAP)"	"9% de N
+48% de P2O5"	"Nitrogenio teor total e P2O5 teor soluvel
+em CNA mais agua e minimo de 44%
+soluvel em agua."	Reacao do acido Fosforico com Amonia.	Nitrogenio na forma amoniacal.
+"Fosfato Monoamonico
+Cristal
+(MAP Cristal)"	"11% N
+60% P2O5"	Nitrogenio e Fosforo teores soluveis em agua.	"1) Reacao do acido
+Fosforico de alta pureza com amonia.
+2) Purificacao do
+MAP."	Nitrogenio na forma amoniacal
+"Fosfato Monopotassico
+(KH2PO4)"	"51% de P2O5
+33% de K2O"	"Fosforo determinado
+como P2O5 soluvel em agua e K2O soluvel em agua"	"Reacao do
+Hidroxido de Potassio com acido Fosforico"	
+Fosfato Natural	5% de P2O5	"Fosforo determinado
+como P2O5 total e minimo de 15% do teor total soluvel em acido citrico a 2% na relacao 1:100. Granulometria: particulas devem passar, no minimo,
+85% em peneira de
+0,075 mm (ABNT
+200)."	Moagem e peneiramento de rocha fosfatica.	Pode ser declarado o teor total de Calcio existente naturalmente no produto, quando este teor for igual ou superior a 1% (p/p).
+"Fosfato Parcialmente
+Acidulado"	"20% de P2O5
+16% de Ca"	Fosforo determinado em P2O5 total, minimo de 9% soluvel em Citrato Neutro de Amonio mais agua, e minimo de 5% soluvel em agua.	Acidulacao parcial da rocha fosfatica moida com acido Sulfurico, acido Cloridrico ou acido Fosforico.	"Pode conter ate
+6% de Enxofre (S) e ate 2% de Magnesio (Mg). Minimo de 11%
+de P2O5 soluvel em acido Citrico a 2% na relacao
+1:100."
+Fosfato Precipitado	"7% de P2O5
+12% de Ca"	Fosforo teor total e minimo de 3% de P2O5 soluvel em Citrato Neutro de Amonia mais agua.	Secagem, moagem e peneiramento do material resultante do tratamento de efluentes da producao de acido fosforico, pela adicao de oxido de calcio e carbonato de calcio e magnesio.	"Esse produto pode ser dispensado de
+registro quando, na condicao de material secundario e mediante
+autorizacao do
+MAPA, for comercializado tal qual para estabelecimento produtor de fertilizante como materia-prima
+para a fabricacao de Fosfato Precipitado ou outro fertilizante."
+Fosfato Natural Reativo	"27% de P2O5
+28% de Ca"	"Fosforo determinado como P2O5 total e
+minimo de 30% do teor total soluvel em acido Citrico a 2% na relacao 1:100. Granulometria:
+Particulas devem
+passar 100% na peneira de 4,8mm (ABNT nº 4) e passar, no minimo,
+80% na
+peneira de 2,8mm
+(ABNT nº 7)"	"Extracao natural e beneficiamento por meio do processo
+de homogeneizacao hidropneumatica ou flotacao."	Podera ser declarado o teor de P2O5 soluvel em acido Formico a 2%, relacao 1:100, quando este for, no minimo, 55% do P2O5 total.
+"Fosfato Tripotassio
+(K3PO4)"	"32% de P2O5
+64% de K2O"	Fosforo e Potassio teores soluveis em agua.	Reacao direta de acido fosforico com potassa caustica.	
+Fosfato Calcinado	18% de P2O5	Fosforo teor total e minimo de 14% soluvel em CNA + agua.	"Calcinacao da rocha fosfatica em
+temperaturas superiores a 650ºC e inferiores a
+1.000ºC."	Podem ser declarados teores para Calcio e Magnesio.
+Fosfito de Amonio	10% de N	Nitrogenio soluvel em agua.	Reacao do acido fosforoso com hidroxido ou carbonato de amonio.	"Pode conter, no
+maximo, 2% de Sodio residual e deve conter, no minimo, 26% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Calcio	5% de Ca	Calcio soluvel em agua	Reacao do acido fosforoso com oxido de Calcio ou Hidroxido de Calcio.	"Pode conter, no
+maximo, 2% de Sodio (Na) residual.
+Deve conter, no minimo, 28% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Cobalto	7% de Co	Cobalto soluvel em agua.	Reacao do acido fosforoso com hidroxido ou carbonato de cobalto.	"Pode conter no maximo 2% de Sodio residual e
+deve conter, no
+minimo, 16% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Cobre	3% de Cu	Cobre soluvel em agua.	Reacao do acido fosforoso com oxido, hidroxido ou carbonato de cobre.	"Pode conter, no maximo, 2% de Sodio residual e
+deve conter, no
+minimo, 7% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Ferro	4% de Fe	Ferro soluvel em agua.	Reacao do acido fosforoso com hidroxido ou carbonato de Ferro.	"Pode conter, no maximo, 2% de sodio residual e
+deve conter, no
+minimo, 9% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Magnesio	3% de Mg	Magnesio soluvel em agua	Reacao do acido fosforoso com oxido de Magnesio ou Hidroxido de Magnesio.	"Pode conter, no
+maximo, 2% de Sodio (Na) residual.
+Deve conter, no minimo, 28% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Manganes	8% de Mn	Manganes soluvel em agua	"Reacao de acido fosforoso com
+oxido de manganes."	"Pode conter, no
+maximo, 2% de Sodio (Na) residual.
+Deve conter, no minimo, 28% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Niquel	4% de Ni	Niquel soluvel em agua.	Reacao do acido fosforoso com hidroxido ou carbonato de Niquel.	"Pode conter, no
+maximo, 2% de sodio residual e deve conter, no minimo, 9% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Potassio	20% de K2O	K2O soluvel em agua	Reacao do acido Fosforoso com Hidroxido ou Carbonato de Potassio.	"Pode conter, no
+maximo, 2% de Sodio (Na) residual.
+Deve conter, no minimo, 27% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfito de Zinco	8% de Zn	Zinco soluvel em agua	Reacao do acido fosforoso com oxido de Zinco.	"Pode conter, no
+maximo, 2% de Sodio (Na) residual.
+Deve conter, no minimo, 38% de P2O5 oriundo exclusivamente do acido fosforoso."
+Fosfossulfato de Amonio	"13% de N
+20% de P2O5
+12% de S"	"Fosforo determinado como P2O5 soluvel em Citrato Neutro de
+Amonio mais agua.
+Nitrogenio na forma amoniacal."	Reacao entre Amonia Anidra e uma mistura de acido Fosforico e Sulfurico.	
+"Hidroboracita
+(CaO.MgO.3B2O3.6H2O)"	7% de B	Boro teor total	"Beneficiamento
+fisico do mineral natural"	"Minimo de 7% de
+Ca e 4% de Mg."
+"Hidroxido de Calcio
+(Ca(OH)2)"	48% de Ca	Calcio teor total.	"Calcinacao total,
+hidratacao, moagem e tamisacao do mineral calcita."	
+"Hidroxido de Calcio e
+Magnesio"	"24% de Ca
+4% de Mg"	Calcio (Ca) e Magnesio (Mg) teores totais.	"Calcinacao total,
+hidratacao, moagem e tamisacao do mineral dolomita ou da mistura de
+calcita e magnesita."	
+"Hidroxido de Potassio
+(KOH)"	71% de K2O	K2O soluvel em agua.	"Pela eletrolise da solucao saturada de Cloreto de Potassio
+com posterior
+purificacao."	
+"Hidroxido de Magnesio
+(Mg(OH)2)"	35% de Mg	Magnesio teor total	"Precipitacao de sal
+soluvel de magnesio com hidroxido de amonio"	
+"Kieserita
+(MgSO4 .H2O)"	"15% de Mg
+20% de S"	Magnesio soluvel em agua.	"Beneficiamento de
+hartsalz composto de silvinita (KCl), halita (NaCl) e Kieserita."	
+"Molibdato de Amonio
+((NH4)6Mo7O24.2H2O)"	"52% de Mo
+5% de N"	Molibdenio e Nitrogenio soluveis em agua na forma Nitrogenio total	Reacao do acido Molibdico com Hidroxido de Amonia	
+"Molibdato de
+Monoetanolamina"	10% de Mo	Molibdenio soluvel em agua	"ester de acido
+Molibdico com
+Monoetanolamina"	
+"Molibdato de Potassio
+(K2MoO4.5H2O)"	"28% de Mo
+27% de K2O"	Molibdenio e Potassio soluvel em agua.	"Obtido pela reacao
+do trioxido de molibdenio (MoO3) com hidroxido de potassio (KOH)."	Pode conter, no maximo, 0,5% de Cloro (Cl) residual.
+"Molibdato de Sodio
+(Na2Mo O4.2H2O)"	39% de Mo	Molibdenio soluvel em agua na forma de	"Reacao do Trioxido de Molibdenio com Hidroxido de
+Sodio."	
+Multifosfato Magnesiano	"18% de P2O5
+8% de Ca
+3% de Mg
+6% de S"	"Fosforo teor soluvel em CNA mais agua e
+minimo de 8%
+soluvel em agua. Calcio, Magnesio e Enxofre teores totais. Granulometria: Particulas devem passar, no minimo,
+90% na peneira de
+2,8 mm (ABNT nº 7)
+e passar, no maximo,
+35% na peneira de
+0,5 mm (ABNT nº
+35)."	Reacao de rocha fosfatica moida com acido Sulfurico e oxido de Magnesio.	
+Nitrato de Amonio	32% de N	Nitrogenio teor total.	Neutralizacao do acido Nitrico pela Amonia Anidra.	"O Nitrogenio
+devera estar 50% na forma amoniacal e 50% na forma nitrica."
+"Nitrato de Amonio e
+Calcio"	"20% de N
+2% de Ca"	Nitrogenio e Calcio teores totais.	"1) Adicao de
+calcario ou dolomita sobre Amonia Anidra e acido Nitrico.
+2) Adicao de calcario ou dolomita sobre Nitrato de Amonio fundido.
+3) Mistura de Nitrato de Calcio com o Carbonato de Amonio."	O Nitrogenio devera estar 50% na forma amoniacal e 50% na forma nitrica
+Nitrato de Calcio	"14% de N
+16% de Ca"	Nitrogenio e Calcio teores totais.	Reacao de acido Nitrico com oxido ou Carbonato de Calcio.	"Nitrogenio na
+forma nitrica, podendo ter ate
+1,5% na forma amoniacal."
+"Nitrato de Cobalto
+(Co(NO3)2.6H2O)"	"17% de Co
+8% de N"	Nitrogenio e Cobalto soluveis em agua.	"A partir da reacao de carbonato de
+cobalto (CoCO3)
+com acido Nitrico."	
+"Nitrato de Cobre
+(Cu(NO3)2.3H2O)"	"22% de Cu
+9% de N"	Cobre soluvel em agua.	"A partir da reacao de oxido de cobre
+(CuO) com acido
+Nitrico."	
+"Nitrato de Magnesio
+(Mg(NO3)2.6H2O)"	"8% de Mg
+10% de N"	Magnesio soluvel em agua.	"A partir da reacao
+de MgO com acido
+Nitrico."	
+"Nitrato de Manganes
+(Mn(NO3)2.6H2O)"	"16% de Mn
+8% de N"	Manganes soluvel em agua.	"A partir da reacao
+de oxido de manganes (MnO) com acido Nitrico."	
+Nitrato de Potassio	"44% de K2O
+12% de N"	Nitrogenio e Potassio teores soluveis em agua.	"1) Recuperacao do
+caliche por cristalizacao das aguas de lavagem.
+2) Reacao do Cloreto de Potassio com acido Nitrico.
+3) A partir do Cloreto de Potassio e Nitrato de Sodio por dissolucoes seletivas."	O Nitrogenio deve estar na forma nitrica.
+Nitrato de Sodio	16% de N	Nitrogenio teor soluvel em agua.	"1) Purificacao e
+concentracao do caliche.
+2) Acao de oxido de Nitrogenio sobre o Hidroxido de Sodio ou lixivia.
+3) Acao de acido Nitrico sobre Hidroxido de Sodio ou lixivia."	"O Nitrogenio devera estar na forma nitrica.
+O teor de Perclorato, expresso em Perclorato de Sodio, nao podera ser maior que
+1%."
+"Nitrato de Zinco
+(Zn(NO3)2.6H2O)"	"8% de N 18% de
+Zn"	Nitrogenio e Zinco teores soluveis em agua.	"A partir da reacao
+de oxido de Zinco (ZnO) com acido Nitrico."	Nitrogenio na forma nitrica.
+"Nitrato Duplo de Sodio e
+Potassio"	"14% de N
+8% de K2O"	"Nitrogenio e Potassio
+teores soluveis em agua."	Refinacao do caliche.	Nitrogenio na forma nitrica.
+"Nitrato Ferrico
+(Fe(NO3)3.9H2O)"	"8% de N
+11% de Fe"	"Nitrogenio e Ferro
+teores soluveis em agua."	"A partir da reacao
+de Ferro (Fe) com
+acido Nitrico."	Nitrogenio na forma nitrica.
+Nitrofosfato	"14% de N
+18% de P2O5
+6% de Ca"	"Fosforo teor soluvel
+em Citrato Neutro de Amonio mais agua e minimo de 14% de P2O5 soluvel em agua.
+Nitrogenio e Calcio teores totais."	Reacao entre a rocha fosfatica moida com o acido Nitrico ou mistura de acidos.	Nitrogenio na forma nitrica.
+Nitrossulfocalcio	"24% de N
+3% de S
+3% de Ca"	"Nitrogenio, Calcio e
+Enxofre teores totais."	Reacao do Sulfato de Calcio com Nitrato de Amonio.	"O Nitrogenio deve
+estar metade na forma amoniacal e metade na forma nitrica."
+"Octaborato de Sodio
+(Na2B8013.4H2O)"	20% de B	Boro teor soluvel em agua.	"1) Fusao do Borato de Sodio com
+Anidrido Borico.
+2) Reacao do acido borico com hidroxido de sodio."	
+"Octaborato de Potassio
+(K2B8013.nH2O)"	"19% de B 18%
+de K2O"	Boro e Potassio teor soluveis em agua.	"1)   Reacao do
+acido Borico com Hidroxido de Potassio."	
+"oxido Cuprico
+(CuO)"	70% de Cu	Cobre teor total.	"Calcinacao do
+Cobre metalico finamente moido."	
+"oxido Cuproso
+(Cu2O)"	80% de Cu	Cobre teor total.	"Obtido em processo eletrolitico por
+meio do Cobre
+metalico ou em processo de reducao em fornos por meio de oxido Cuprico mais Cobre
+Metalico finamente moido."	
+"oxido de Calcio
+(CaO)"	64% de Ca	Calcio teor total.	"Calcinacao total, moagem e
+tamisacao do mineral calcita."	
+"oxido de Calcio e
+Magnesio"	"32% de Ca
+6% de Mg"	Calcio e Magnesio teores totais.	"Calcinacao total,
+moagem e tamisacao do mineral Dolomita ou da mistura de calcita e magnesita."	
+"oxido de Cobalto
+(CoO)"	56% de Co	Cobalto teor total.	"Calcinacao total,
+moagem e tamisacao do Carbonato de Cobalto."	
+"oxido de Magnesio
+(MgO)"	45% de Mg	Magnesio teor total.	"Calcinacao total,
+moagem e tamisacao da magnesita."	
+"oxido de Zinco
+(ZnO)"	72% de Zn	Zinco teor total.	"Calcinacao, moagem e
+tamisacao do Zinco
+metalico."	
+"oxido Manganoso
+(MnO)"	50% de Mn	Manganes teor total.	"Reducao do
+Bioxido de Manganes a alta temperatura."	
+Pentaborato de Sodio ((NaB5O8.5H2O) ou (NaB5O8))	18% de B	Boro teor total.	"1) Fusao do Borato
+de Sodio com
+Anidrido Borico.
+2) Reacao do acido borico com hidroxido de sodio."	
+Polifosfato de Amonio	"10% de N
+34% de P2O5"	Nitrogenio e Fosforo soluveis em agua. Nitrogenio na forma amoniacal	"Reacao do acido fosforico com
+amonia sob
+temperaturas entre
+170 ºC e 350 ºC"	
+Polifosfato de Ferro e Amonio (Fe(NH4)HP2O7)	"4% de N
+55% de P2O5
+22% de Fe"	"Nitrogenio, Fosforo e
+Ferro teores totais."	Tratamento do Pirofosfato Ferrico com amonia.	
+Quelato de Boro	8% de B	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Cobalto	2% de Co	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Cobre	5% de Cu	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Ferro	5% de Fe	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Manganes	5% de Mn	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Molibdenio	3% de Mo	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Niquel	2% de Ni	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Zinco	7% de Zn	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Calcio	2% de Ca	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+Quelato de Magnesio	2% de Mg	Nutrientes soluveis em agua ligados a um quelante.	Reacao do sal inorganico com um agente quelante.	"O agente quelante utilizado na fabricacao de cada produto quelatado deve estar
+previsto no Anexo II desta Instrucao Normativa."
+"Selenato de Sodio
+(Na2SeO4)"	40% de Se	Selenio soluvel em agua.	"1) Oxidacao do selenito de sodio com peroxido de hidrogenio;
+2) Reacao de acido selenioso com Hidroxido de Sodio"	
+"Silicato de Calcio
+(CaSiO3)"	"29% de Ca 20%
+de Si"	Silicio e Calcio teores totais.	"1) a partir da
+moagem e tratamento termico com monitoramento diario da temperatura
+(minimo de
+1000ºC) do Silicato de Calcio;
+2) a partir da moagem e tratamento termico com monitoramento
+diario (minimo de
+1000ºC) de compostos silicatados com compostos calciticos."	"Especificacao de natureza fisica: po.
+Este produto pode ser granulado desde que seja produzido a partir da especificacao de natureza fisica po e seja utilizado agente desagregante."
+"Silicato de Calcio e
+Magnesio
+(CaSiO3 + MgSiO3)"	"7% Ca
+1% de Mg
+10% de Si"	"Silicio total na forma de silicato.
+Calcio total. Magnesio total."	"1) a partir do
+tratamento termico com monitoramento diario da temperatura
+(minimo 1000ºC) de compostos silicatados com compostos dolomiticos;
+2) a partir do tratamento e moagem de escorias silicatadas
+(agregado siderurgico)
+geradas no processo de producao de
+ferro e de aco (processo siderurgico)."	"Especificacao de natureza fisica: po e Farelado.
+Este produto pode ser granulado desde que seja produzido a partir da especificacao de natureza fisica po e seja utilizado agente desagregante."
+"Silicato de Potassio
+(K2SiO3)"	"10% de K2O 10%
+de Si"	Potassio e Silicio teores soluveis em agua.	"Reacao de minerais
+silicatados ou de silica reativa com Hidroxido de Potassio."	Fluido: solucao
+Solucao Nitrogenada	14% de N	Nitrogenio teor total.	"A partir da dissolucao em agua
+de solucoes aquosas
+de Amonia e/ou Nitrato de Amonio e/ou Ureia ou outros compostos de Nitrogenio."	Fluido: solucao
+Sulfato de Amonio	"20% de N
+22% de S"	Nitrogenio e Enxofre teores totais.	"1) Neutralizacao do
+acido sulfurico pela Amonia Anidra.
+2) Reacao do Carbonato de Amonio com o gesso.
+3) A partir de gases de coqueria provenientes de unidades de fabricacao de acido Sulfurico."	"O Nitrogenio devera estar na forma amoniacal. O teor de Tiocianato, expresso em Tiocianato de Amonio, nao podera exceder a
+1%."
+Sulfato de Calcio	"16% de Ca
+13% de S"	Calcio e enxofre teores totais.	"1) Produto
+resultante da fabricacao do acido Fosforico.
+2) Beneficiamento de gipsita."	
+"Sulfato de Cobalto
+(CoSO4.xH2O)"	"10% de S
+20% de Co"	Cobalto e Enxofre teores soluveis em agua.	"1) A partir da reacao de CoCO3
+com acido
+Sulfurico.
+2) Reacao do Cobalto metalico com acido sulfurico, neutralizado com Hidroxido de Amonio."	
+"Sulfato de Cobre
+(CuSO4.H2O)"	"11% de S 24% de
+Cu"	Cobre teor soluvel em agua.	"1) Por meio da
+reacao do oxido de Cobre com acido Sulfurico.
+2) Por meio da reacao por oxidacao do Cobre Metalico com acido
+Sulfurico."	
+"Sulfato de Magnesio
+(MgSO4.H2O)"	"11% de S 9% de
+Mg"	Magnesio teor soluvel em agua.	"Por meio da reacao
+do oxido de Magnesio com acido Sulfurico."	
+"Sulfato de Manganes
+(MnSO4.H2O)"	"16% de S 26% de
+Mn"	Manganes teor soluvel em agua.	Reacao de oxidos de Manganes com acido Sulfurico.	
+"Sulfato de Potassio
+(K2 SO4.H2O)"	"48% de K2O
+15% de S"	Potassio teor soluvel em agua.	A partir de varios minerais potassicos.	"De 0 a 1,2% de
+Magnesio (Mg)."
+"Sulfato de Potassio e
+Magnesio
+(K2 SO4.Mg SO4)"	"20% de K2O
+10% de Mg
+20% de S"	Potassio e Magnesio teores soluveis em agua.	Reacao de sais de Potassio mais sais de Magnesio com acido sulfurico.	Pode conter 1% ou mais de Cloro (Cl).
+"Sulfato de potassio, calcio e magnesio (K2SO4.MgSO4.2CaSO4.
+2H2O)"	"14% de K2O
+12% de Ca 3% de
+Mg
+19% de S"	Potassio, Enxofre, Magnesio e Calcio, teores soluveis em agua.	Extracao e beneficiamento do mineral natural Polihalita.	
+"Sulfato de Niquel
+(NiSO4.6H2O)"	"10% de S 19% de
+Ni"	Enxofre e Niquel teores soluveis em agua.	"A  partir  da  reacao
+de acido sulfurico com  Niquel metalico ou com carbonato  de Niquel."	
+"Sulfato de Zinco
+(ZnSO4.xH2O)"	"9% de S 20% de
+Zn"	Zinco e Enxofre teores soluveis em agua.	"Por meio da reacao
+do oxido de Zinco ou de Zinco metalico com acido Sulfurico."	
+"Sulfato Ferrico
+(Fe2(SO4)3.4H2O)"	"18% de S 23% de
+Fe"	Ferro e Enxofre teores soluveis em agua.	"Obtem-se com
+oxidacao do Sulfato Ferroso com o oxigenio ou em contato com solucoes alcalinas."	
+Sulfato Ferroso	"10% de S 19% de
+Fe"	Ferro soluvel em agua na forma de Sulfato (FeSO4 xH2O)	"Por meio da reacao
+do Ferro Metalico ou Carbonato de Ferro com acido Sulfurico."	
+Sulfonitrato de Amonio	"25% de N
+12% de S"	Nitrogenio e Enxofre teores totais.	"1) Acao do Sulfato
+de Amonio sobre o Nitrato de Amonio fundido.
+2) Neutralizacao de mistura de acido Nitrico e Sulfurico pela Amonia Anidra."	O Nitrogenio devera estar 75% na forma Amoniacal e 25% na forma Nitrica.
+"Sulfonitrato de Amonio e
+Magnesio"	"19% de N
+3,5% de Mg
+10% de S"	Nitrogenio, Magnesio e Enxofre teores totais.	"Neutralizacao da mistura de acido
+Sulfurico e Nitrico
+pela Amonia Anidra, com adicao de composto de Magnesio."	O Nitrogenio devera estar 67% na forma amoniacal e 33% na forma nitrica.
+Superfosfato Duplo	"28% de P2O5
+16% de Ca
+5% de S"	Fosforo determinado como P2O5 soluvel em Citrato Neutro de Amonio mais agua e minimo de 24% soluvel em agua. Calcio e Enxofre total.	"1) Reacao da rocha
+fosfatica moida com mistura de acido Sulfurico e Fosforico.
+2) Tratamento de Superfosfato Simples com Metafosfato de Calcio."	
+Superfosfato Simples	"18% de P2O5
+16% de Ca
+10% de S"	"Fosforo teor soluvel
+em Citrato Neutro de Amonio mais agua e minimo de 16% em agua.
+Calcio e Enxofre teores totais."	Reacao da rocha fosfatica moida com acido Sulfurico.	
+"Superfosfato Simples
+Amoniado"	"1% de N
+14% de P2O5
+14% de Ca
+6% de S"	"Nitrogenio, Calcio e
+Enxofre teores totais
+e Fosforo teor soluvel em Citrato Neutro de Amonio mais agua."	Reacao                de Superfosfato Simples    po    com Amonia   e    acido Sulfurico.	"Nitrogenio na forma amoniacal.
+A somatoria de N
++ P2O5 soluvel em Citrato Neutro de Amonio mais
+agua deve ser, no minimo, de 18%."
+Superfosfato Triplo	"41% de P2O5
+10% de Ca"	"Fosforo teor soluvel em Citrato neutro de
+Amonio mais agua e
+minimo de 36% soluvel em agua. Calcio teor total"	Reacao da rocha fosfatica moida com o acido Fosforico.	
+"Superfosfato
+Triplo Amoniado"	"1% de N
+38% de P2O5
+8 % de Ca"	Fosforo teor soluvel em Citrato Neutro de Amonio mais agua. Nitrogenio e Calcio teores totais.	Reacao de Superfosfato Triplo po com Amonia e acido Fosforico.	"Nitrogenio na
+forma amoniacal. A somatoria de N
++ P2O5 soluvel em Citrato Neutro de Amonio mais agua deve ser, no minimo, de 41%."
+"Termofosfato
+Magnesiano"	"17% de P2O5
+4% de Mg
+16% de Ca
+8% Si"	"Fosforo teor total e
+P2O5 minimo de 11%
+em acido Citrico a
+2% na relacao de
+1:100.
+Calcio, Magnesio e Silicio teores totais. Granulometria:
+(1) Particulas passantes no minimo
+75% em peneira de
+0,15 mm (ABNT nº
+100); ou (2) Particulas passantes no minimo 85% na peneira de 0,84 mm (ABNT nº 20)."	Tratamento termico da rocha fosfatica, concentrado apatitico ou outras fontes de fosforo com adicao de compostos calciticos, Magnesianos e Silicicos.	Podem ser incorporadas fontes fornecedoras de micronutrientes, desde que garantidos os seus teores.
+"Termofosfato
+Magnesiano Potassico"	"12% de P2O5
+4% de K2O
+16% de Ca
+4% de Mg
+8% de Si"	"Fosforo teor total e minimo de 6% soluvel em acido citrico a 2% na relacao 1:100. Potassio teor soluvel
+em acido citrico a 2% na relacao 1:100. Calcio, Magnesio e Silicio teores totais."	"A partir do tratamento termico
+a, no minimo,
+1000ºC (fundicao), da rocha fosfatica ou outras fontes de fosforo com adicao de compostos Magnesianos, Potassicos e Silicilicos."	"Podem              ser incorporadas
+fontes
+fornecedoras     de micronutrientes, desde              que garantidos os seus teores. Especificacao   de natureza fisica: Po e Farelado."
+Termo-Superfosfato	"18% de P2O5
+1% de Mg
+10% de Ca
+2% de S
+1% Si"	"Fosforo determinado
+como P2O5 total; minimo de 16% de P2O5 soluvel em acido Citrico a 2% na relacao de 1:100 e minimo de 5% de P2O5 soluvel em
+agua.
+Calcio, Enxofre, Magnesio e Silicio teores totais."	Reacao seguida de granulacao do Termofosfato Magnesiano, com Superfosfato Simples e/ou Superfosfato Triplo e acido Sulfurico.	
+"Tiossulfato de Amonio
+((NH4)2S2O3)"	"11% de N
+25% de S"	Nitrogenio e Enxofre soluveis em agua.	Reacao entre amonia anidra (NH3), anidrido sulfuroso (SO2), Enxofre elementar e agua.	Nitrogenio determinado na forma amoniacal.
+"Tiossulfato de Calcio
+(CaS2O3)"	"6% de Ca
+10% de S"	Calcio e enxofre soluveis em agua	Reacao entre Hidroxido de Calcio Ca(OH) 2, anidrido sulfuroso (SO2), Enxofre elementar e agua.	
+"Tiossulfato de Potassio
+(K2S2O3)"	"25% de K2O
+17% de S"	Potassio e Enxofre soluveis em agua.	Reacao entre Hidroxido de Potassio (KOH), anidrido sulfuroso (SO2), Enxofre elementar e agua.	
+"Trioxido de Molibdenio
+(MoO3)"	57% de Mo	Molibdenio teor total.	"Obtem-se por meio da queima do
+Molibdato de
+Amonio ou ustulacao da Molibdenita (MoS2)."	
+"Ulexita
+(Na2O.2.CaO.5B2
+O3.16H2O)"	8% de B	Boro teor total. Especificacao de Natureza Fisica: Po	Beneficiamento fisico do mineral	"Minimo de 7% de Ca e 6% de Sodio teores totais.
+Como materia-
+prima para a fabricacao de fertilizante, fica dispensada a exigencia de especificacao de natureza fisica."
+Ureia	45% de N	Nitrogenio teor total.	Reacao da Amonia Anidra e Gas Carbonico sob pressao.	"O Nitrogenio deve
+estar totalmente
+na forma amidica. O teor de Biureto nao pode ser
+maior de 1,5% para aplicacao direta no solo e de 0,3% para
+aplicacao foliar."
+Ureia-Formaldeido	35% de N	Nitrogenio teor total.	Reacao entre Ureia e Formaldeido.	"Nitrogenio na
+forma amidica. Pelo menos 60% do Nitrogenio deve ser insoluvel em agua."
+"Ureia-Superfosfato
+((NH2)2CO.H3PO4)"	"17% de N
+43% de P2O5"	Nitrogenio na forma amidica e Fosforo soluvel em agua.	Dissolucao da Ureia grau tecnico no acido fosforico grau alimenticio.	

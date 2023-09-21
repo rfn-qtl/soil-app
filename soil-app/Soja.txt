@@ -1,0 +1,27 @@
+
+
+Observacoes
+	
+Fosforo (P)	
+* =	Nao e possivel obter essa produtividade com a aplicacao localizada
+        de fosforo em solos com teores muito baixo de P.
+Dose =	kg/ha de P2O5
+Teor =	P resina, mg/dm3
+	
+
+Potassio (K)	
+Dose =	kg/ha de K2O
+Teor =	K+ trocavel, mmolc/dm3
+	
+	
+        Empregar 15 kg/ha  de S para cada tonelada de producao esperada.	
+ 
+
+        Em solos deficientes em manganes (Mn no solo ate 1,5 mg/dm3), 
+        aplicar 5 kg/ha de Mn.	
+
+
+        Nas dosagens de K2O acima de 50 kg/ha, utilizar a metade da dose em
+        cobertura, principalmente em solos arenoso, 30 ou 40 dias apos a 
+        germinacao, respectivamente para cultivares de ciclo mais precoce 
+        e mais tardio.	

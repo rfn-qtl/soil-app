@@ -1,0 +1,29 @@
+
+
+Soil-app: (Ajuda para pagina "Analise Multivariada > Correlacao")
+
+#--------------------------------------------#
+# Informacoes Gerais = Analises Estatisticas #
+#--------------------------------------------#
+
+
+Soil-app utiiza a funcao correlation() do pacote agricolae (https://cran.r-project.org/web/packages/agricolae/index.html) do software R. 
+
+
+#--------#
+# Saidas #
+#--------#
+
+
+Correlacao: tabela com as estimativas das correlacoes de Pearson entre os caracteres avaliados.
+
+p-valor: tabela com os p-valores das correlacoes de Pearson entre os caracteres avaliados.
+
+
+# Grafico teia (pacote qgraph R):
+	- Largura das linhas sao referencias a magnitude da correlacao (linhas grossas = maior magnitude, linhas finas = menor magnitude).
+	- Cor verde = correlacao positiva; cor vermelha = correlacao negativa
+
+OBS: Para fazer o download dos dados obtidos nas saidas e necessario inserir um nome desejado para o arquivo e clicar em Download.
+
+

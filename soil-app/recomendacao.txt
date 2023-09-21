@@ -1,0 +1,125 @@
+cultura	nutriente	prod	teor	dose
+Soja	N	1.5-1.9	0	0
+Soja	N	2.0-2.4	0	0
+Soja	N	3.0-3.4	0	0
+Soja	N	3.5-4.0	0	0
+Soja	P	1.5-1.9	0-6	50
+Soja	P	1.5-1.9	7-15	40
+Soja	P	1.5-1.9	16-40	30
+Soja	P	1.5-1.9	40-1000	20
+Soja	P	2.0-2.4	0-6	60
+Soja	P	2.0-2.4	7-15	50
+Soja	P	2.0-2.4	16-40	40
+Soja	P	2.0-2.4	40-1000	20
+Soja	P	2.5-2.9	0-6	80
+Soja	P	2.5-2.9	7-15	60
+Soja	P	2.5-2.9	16-40	40
+Soja	P	2.5-2.9	40-1000	20
+Soja	P	3.0-3.4	0-6	90
+Soja	P	3.0-3.4	7-15	70
+Soja	P	3.0-3.4	16-40	50
+Soja	P	3.0-3.4	40-1000	30
+Soja	P	3.5-4.0	0-6	NA
+Soja	P	3.5-4.0	7-15	80
+Soja	P	3.5-4.0	16-40	50
+Soja	P	3.5-4.0	40-1000	40
+Soja	K	1.5-1.9	0.0-0.7	60
+Soja	K	1.5-1.9	0.8-1.5	40
+Soja	K	1.5-1.9	1.6-3.0	20
+Soja	K	1.5-1.9	3.0-1000	0
+Soja	K	2.0-2.4	0.0-0.7	70
+Soja	K	2.0-2.4	0.8-1.5	50
+Soja	K	2.0-2.4	1.6-3.0	30
+Soja	K	2.0-2.4	3.0-1000	20
+Soja	K	2.5-2.9	0.0-0.7	70
+Soja	K	2.5-2.9	0.8-1.5	50
+Soja	K	2.5-2.9	1.6-3.0	50
+Soja	K	2.5-2.9	3.0-1000	20
+Soja	K	3.0-3.4	0.0-0.7	80
+Soja	K	3.0-3.4	0.8-1.5	60
+Soja	K	3.0-3.4	1.6-3.0	50
+Soja	K	3.0-3.4	3.0-1000	30
+Soja	K	3.5-4.0	0.0-0.7	80
+Soja	K	3.5-4.0	0.8-1.5	60
+Soja	K	3.5-4.0	1.6-3.0	60
+Soja	K	3.5-4.0	3.0-1000	40
+Milho Cobertura	N	2-4	Alta	40
+Milho Cobertura	N	4-6	Alta	60
+Milho Cobertura	N	6-8	Alta	90
+Milho Cobertura	N	8-10	Alta	120
+Milho Cobertura	N	10-12	Alta	140
+Milho Cobertura	N	2-4	Media	20
+Milho Cobertura	N	4-6	Media	40
+Milho Cobertura	N	6-8	Media	60
+Milho Cobertura	N	8-10	Media	90
+Milho Cobertura	N	10-12	Media	110
+Milho Cobertura	N	2-4	Baixa	10
+Milho Cobertura	N	4-6	Baixa	20
+Milho Cobertura	N	6-8	Baixa	40
+Milho Cobertura	N	8-10	Baixa	50
+Milho Cobertura	N	10-12	Baixa	70
+Milho Cobertura	K	2-4	0.0-0.7	0
+Milho Cobertura	K	2-4	0.8-1.5	0
+Milho Cobertura	K	2-4	1.6-3.0	0
+Milho Cobertura	K	4-6	0.0-0.7	20
+Milho Cobertura	K	4-6	0.8-1.5	0
+Milho Cobertura	K	4-6	1.6-3.0	0
+Milho Cobertura	K	6-8	0.0-0.7	60
+Milho Cobertura	K	6-8	0.8-1.5	20
+Milho Cobertura	K	6-8	1.6-3.0	0
+Milho Cobertura	K	8-10	0.0-0.7	90
+Milho Cobertura	K	8-10	0.8-1.5	60
+Milho Cobertura	K	8-10	1.6-3.0	20
+Milho Cobertura	K	10-12	0.0-0.7	110
+Milho Cobertura	K	10-12	0.8-1.5	80
+Milho Cobertura	K	10-12	1.6-3.0	40
+Milho Cobertura	P	2-4	0	0
+Milho Cobertura	P	4-6	0	0
+Milho Cobertura	P	6-8	0	0
+Milho Cobertura	P	8-10	0	0
+Milho Cobertura	P	10-12	0	0
+Milho Plantio	N	2-4	0	10
+Milho Plantio	N	4-6	0	20
+Milho Plantio	N	6-8	0	30
+Milho Plantio	N	8-10	0	30
+Milho Plantio	N	10-12	0	30
+Milho Plantio	P	2-4	0-6	60
+Milho Plantio	P	2-4	7-15	40
+Milho Plantio	P	2-4	16-40	30
+Milho Plantio	P	2-4	40-1000	20
+Milho Plantio	P	4-6	0-6	80
+Milho Plantio	P	4-6	7-15	60
+Milho Plantio	P	4-6	16-40	40
+Milho Plantio	P	4-6	40-1000	30
+Milho Plantio	P	6-8	0-6	90
+Milho Plantio	P	6-8	7-15	70
+Milho Plantio	P	6-8	16-40	50
+Milho Plantio	P	6-8	40-1000	30
+Milho Plantio	P	8-10	0-6	*
+Milho Plantio	P	8-10	7-15	90
+Milho Plantio	P	8-10	16-40	60
+Milho Plantio	P	8-10	40-1000	40
+Milho Plantio	P	10-12	0-6	*
+Milho Plantio	P	10-12	7-15	100
+Milho Plantio	P	10-12	16-40	70
+Milho Plantio	P	10-12	40-1000	50
+Milho Plantio	K	2-4	0.0-0.7	50
+Milho Plantio	K	2-4	0.8-1.5	40
+Milho Plantio	K	2-4	1.6-3.0	30
+Milho Plantio	K	2-4	3.0-1000	0
+Milho Plantio	K	4-6	0.0-0.7	50
+Milho Plantio	K	4-6	0.8-1.5	50
+Milho Plantio	K	4-6	1.6-3.0	40
+Milho Plantio	K	4-6	3.0-1000	20
+Milho Plantio	K	6-8	0.0-0.7	50
+Milho Plantio	K	6-8	0.8-1.5	50
+Milho Plantio	K	6-8	1.6-3.0	50
+Milho Plantio	K	6-8	3.0-1000	30
+Milho Plantio	K	8-10	0.0-0.7	50
+Milho Plantio	K	8-10	0.8-1.5	50
+Milho Plantio	K	8-10	1.6-3.0	50
+Milho Plantio	K	8-10	3.0-1000	40
+Milho Plantio	K	10-12	0.0-0.7	50
+Milho Plantio	K	10-12	0.8-1.5	50
+Milho Plantio	K	10-12	1.6-3.0	50
+Milho Plantio	K	10-12	3.0-1000	50

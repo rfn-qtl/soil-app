@@ -1,0 +1,9 @@
+﻿tipo	argila	critico	tampao
+Mehlich	"< 15"	18	5
+Mehlich	"16 - 35"	15	9
+Mehlich	"35 - 60"	8	30
+Mehlich	"> 60"	4	70
+Resina	"< 15"	15	6
+Resina	"16 - 35"	15	9
+Resina	"35 - 60"	15	14
+Resina	"> 60"	15	1

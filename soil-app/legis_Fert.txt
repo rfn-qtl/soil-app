@@ -1,0 +1,3 @@
+<= 1	2 vezes o teor garantido
+> 1  e <= 5	1 vez o teor garantido
+> 5	0,5 vez o teor garantido

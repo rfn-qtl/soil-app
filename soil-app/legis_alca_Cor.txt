@@ -1,0 +1,6 @@
+Material corretivo de sodicidade	Garantia minima	Caracteristicas	Obtencao	Tolerancia  para deficiencia
+Enxofre	95% de S	"Determinado
+como S total"	Extracao de depositos naturais de Enxofre. A partir da pirita, subproduto de gas natural, gases de refinaria e fundicões, do carvao. Pode ser obtido tambem do Sulfato de Calcio ou Anidrita.	Ate 20% se  teores declarados <= 5% e Ate 10% se  teores declarados > 5%
+Borra de enxofre	50% de S	"Determinado
+como S total"	Resultante  da  filtracao  de  S  utilizado  na producao de acido Sulfurico.	Ate 20% se  teores declarados <= 5% e Ate 10% se  teores declarados > 5%
+Outros	Demais produtos que apresentem equivalente acido minimo de 100			Ate 20% se  teores declarados <= 5% e Ate 10% se  teores declarados > 5%

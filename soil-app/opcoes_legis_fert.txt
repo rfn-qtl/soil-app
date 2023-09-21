@@ -1,0 +1,6 @@
+Natureza fisica;1
+Fontes simples;1
+Fertilizantes mistos;1
+Tolerancias quanto a deficiencia;1
+Tolerancias quanto a excesso;1
+Aplicacao via fertirrigacao, foliar, hidroponia e semente;1

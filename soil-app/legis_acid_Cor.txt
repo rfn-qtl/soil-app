@@ -1,0 +1,6 @@
+Material corretivo de acidez	Poder de neutralizacao PN (% equivalente CaCO3) minimo	Soma %CaO + %MgO minimo	PRNT (%) minimo	Tolerancia  para excesso	Tolerancia  para deficiencia
+Calcario agricola	67	38	45	40%	Ate 20% se  teores declarados <= 5%    Ate 10% se  teores declarados > 5%
+Calcario calcinado agricola	80	43	54	40%	Ate 20% se  teores declarados <= 5%    Ate 10% se  teores declarados > 5%
+Cal hidratada agricola	94	50	90	40%	Ate 20% se  teores declarados <= 5%    Ate 10% se  teores declarados > 5%
+Cal virgem agricola	125	68	120	40%	Ate 20% se  teores declarados <= 5%    Ate 10% se  teores declarados > 5%
+Parametros   de   referencia   para   outros corretivos de acidez	67	38	45	40%	Ate 20% se  teores declarados <= 5%    Ate 10% se  teores declarados > 5%

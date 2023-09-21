@@ -1,0 +1,66 @@
+
+
+Observacoes:
+	
+Fosforo (P)	
+* =	e improvavel a obtencao de alta produtividade de milho 
+        em solos com teores muito baixos de P, independentemente
+        da dose de adubo empregada
+Dose =	kg/ha de P2O5
+Teor =	P resina, mg/dm3
+	
+
+Potassio (K)	
+Dose =	kg/ha de K2O
+Teor =	K+ trocavel, mmolc/dm3
+	Para evitar excesso de sais, no sulco de plantio, a adubacao
+        potassica para doses maiores que 50 kg/ha de K2O esta parcelada,
+        prevendo-se a aplicacao em cobertura.
+	
+
+        Aplicar 20 kg/ha de S para metas de produtividade ate 6 t/ha de 
+        graos e 40 kg/ha de S para produtividades maiores.	
+
+
+        Utilizar 4 kg/ha de Zn em solos com teores de Zn (DTPA) inferiores
+        a 0,6 mg/dm3 e 2 kg/ha de Zn quando os teores estiverem entre 0,6 e 
+        1,2 mg/dm3.	
+
+
+        Os adubos devem ser aplicados no sulco de plantio, 5cm ao lado e 
+        abaixo das sementes.	
+	
+
+Cobertura: em solos argilosos, o K aplicado em cobertura pode nao ser eficiente.
+           Assim, principalmente nesses solos, quando os teores de K forem muito
+           baixos ou baixos (< 1,5 mmolc/dm3) e as doses recomendadas em cobertura
+           para a fase de pre-plantio, aplicando o fertilizante a lanco e 
+           incorporando-o ao solo. Nesse caso, acrescentar mais 20 kg/ha de K2O 
+           a dose recomendada.
+	
+
+Alta =	solos corrigidos, com muitos anos de plantio continuo de milho ou 
+        outras culturas nao-leguminosas; primeiros anos de plantio direto; 
+        solos arenosos sujeitos a altas perdas por lixiviacao.
+Media =	solos muito acidos, que serao corrigidos; ou com plantio anterior 
+        esporadico de leguminosas;solo em pousio por um ano; ou uso de 
+        quantidades moderadas de adubos organicos.
+Baixa =	solo em pousio por dois ou mais anos, ou cultivo de milho apos pastagem
+        (exceto em solos arenosos); cultivo intenso de leguminosas ou plantio de
+        adubos verdes antes do milho; uso constante de quantidades elevadas de 
+        adubos organicos.
+	
+
+        Aplicar o nitrogenio ao lado das plantas, com 6 a 8 folhas totalmente 
+        desdobradas (25-30 dias apos a germinacao), em quantidades ate de 80 kg/ha
+        e o restante cerca de 15-20 dias depois. Aplicar o potassio juntamente com
+        a primeira cobertura de nitrogenio, pois aplicacoes tardias desse elemento
+        sao pouco eficientes.
+
+
+        Em areas irrigadas, o N pode ser parcelado em tres ou mais vezes,
+        ate o florescimento, e aplicado com a agua de irrigacao.	
+
+
+        As doses de N podem ser reduzidas em condicoes climaticas desfavoraveis,
+        baixo estande ou em lavouras com grande crescimento vegetativo.	
