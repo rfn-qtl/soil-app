@@ -86,10 +86,9 @@ sidebar <- dashboardSidebar(
                       menuSubItem("Componentes Principais", tabName = "aba125"))),
     menuItem("Informações", icon = icon("info-circle"),
              menuSubItem("Sobre Soil-App", tabName = "info1", icon = icon("angle-right")),
-             menuSubItem("Manual", icon = icon("angle-right"),href = "http://vencovsky.esalq.usp.br:3838/shiny/manual/manual.pdf"),
+             menuSubItem("Manual", icon = icon("angle-right"),href = "https://github.com/rfn-qtl/soil-app/blob/main/manual.pdf"),
              menuSubItem("Contato", tabName = "info3", icon = icon("angle-right"))
-    ),
-    htmlTemplate("flagC.html",align = "center")))
+    )))
 
 # #####################################################################################################################################################################################
 body <- dashboardBody(
@@ -111,11 +110,10 @@ body <- dashboardBody(
                   title = "Para ser um agricultor de sucesso, é preciso primeiro conhecer a natureza do solo (Xenophon, Oeconomicus, 400 A.C).",
                   
                   a(id = "web_button", class = "btn action_button",
-                    href= "http://www.genetica.esalq.usp.br/alogamas/R.html",
                     img(src = "logo1.jpg",align = "center",width = 700, height = 400)),
                   fluidRow(
                     infoBox(hr(), "ESALQ-USP",icon=icon("institution"), fill = TRUE, color = "olive",
-                            href = "http://www4.esalq.usp.br/"),
+                            href = "https://www.esalq.usp.br/"),
                     infoBox(hr(), "Dpto. de Ciência do Solo",icon=icon("flask"), fill = TRUE, color = "olive",
                             href = "http://www.solos.esalq.usp.br/"),
                     infoBox(hr(), "Dpto. de Genética",icon=icon("leaf"), fill = TRUE, color = "olive",

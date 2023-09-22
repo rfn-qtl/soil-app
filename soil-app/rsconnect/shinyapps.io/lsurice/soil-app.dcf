@@ -5,7 +5,5 @@ account: lsurice
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9948559
-bundleId: 7712774
+bundleId: 7717561
 url: https://lsurice.shinyapps.io/soil-app/
-when: 1695323797.56316
-lastSyncTime: 1695323797.56318
